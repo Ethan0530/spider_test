@@ -1,0 +1,3919 @@
+{
+    "gas_station": [
+        {
+            "address": "江苏省南京市六合区",
+            "phone": "",
+            "poiType": "101",
+            "name": "中国石化六合横梁太平加油站",
+            "source": "0",
+            "hotPointID": "917A2402F613C4DE",
+            "lonlat": "118.975000,32.321620"
+        },
+        {
+            "address": "江苏省南京市江宁区",
+            "phone": "",
+            "poiType": "101",
+            "name": "中化道达尔吉祥加油站-便利店",
+            "source": "0",
+            "hotPointID": "51B601022F5BCC5E",
+            "lonlat": "118.763060,31.876430"
+        },
+        {
+            "address": "江苏省南京市六合区",
+            "phone": "",
+            "poiType": "101",
+            "name": "易捷便利店(长江四桥服务区西加油站)",
+            "source": "0",
+            "hotPointID": "5190650141ADB431",
+            "lonlat": "118.956460,32.225460"
+        },
+        {
+            "address": "紫荆花路1",
+            "phone": "",
+            "poiType": "101",
+            "name": "易捷便利店(中国石化卡子门广场加油站)",
+            "source": "0",
+            "hotPointID": "91F00486D281D01C",
+            "lonlat": "118.790130,31.993420"
+        },
+        {
+            "address": "白马镇杜巷村中国石化溧水白马加油站",
+            "phone": "",
+            "poiType": "101",
+            "name": "易捷便利店(中国石化溧水白马加油站)",
+            "source": "0",
+            "hotPointID": "102041000A0A38FD",
+            "lonlat": "119.176690,31.575300"
+        },
+        {
+            "address": "永阳镇秦淮路东",
+            "phone": "",
+            "poiType": "101",
+            "name": "易捷便利店(中国石化溧水宝塔加油站)",
+            "source": "0",
+            "hotPointID": "907205803AC3F9A7",
+            "lonlat": "119.039760,31.661030"
+        },
+        {
+            "address": "建宁路265",
+            "phone": "",
+            "poiType": "101",
+            "name": "易捷便利店(中国石化建宁路加油站)",
+            "source": "0",
+            "hotPointID": "014E408643C4986A",
+            "lonlat": "118.745320,32.093750"
+        },
+        {
+            "address": "太安路前赵村中国石化高淳太安加油站",
+            "phone": "",
+            "poiType": "101",
+            "name": "易捷便利店(中国石化高淳太安加油站)",
+            "source": "0",
+            "hotPointID": "40082585451221ED",
+            "lonlat": "118.856700,31.338910"
+        },
+        {
+            "address": "板仓街196号",
+            "phone": "",
+            "poiType": "101",
+            "name": "易捷便利店(中国石化宁栖路加油站)",
+            "source": "0",
+            "hotPointID": "D118018328A84481",
+            "lonlat": "118.820640,32.076600"
+        },
+        {
+            "address": "芜太公路",
+            "phone": "",
+            "poiType": "101",
+            "name": "易捷便利店(中国石化高淳宝塔加油站)",
+            "source": "0",
+            "hotPointID": "901625052B9B331C",
+            "lonlat": "118.893280,31.343650"
+        },
+        {
+            "address": "东坝街道芜太路西侧",
+            "phone": "025-57396378",
+            "poiType": "101",
+            "name": "中国石化高淳东坝加油站",
+            "source": "0",
+            "hotPointID": "0180218518AF1DEE",
+            "lonlat": "119.046350,31.313580"
+        },
+        {
+            "address": "杨新路309号",
+            "phone": "025-57058980",
+            "poiType": "101",
+            "name": "中国石化六合利华加油站",
+            "source": "0",
+            "hotPointID": "9102018713F8D274",
+            "lonlat": "118.740870,32.210690"
+        },
+        {
+            "address": "城北开发区岔路口",
+            "phone": "025-57211228",
+            "poiType": "101",
+            "name": "中国石化江苏溧水城北加油站",
+            "source": "0",
+            "hotPointID": "804A6401E7E61EDD",
+            "lonlat": "119.013440,31.681380"
+        },
+        {
+            "address": "江苏省南京市高淳区",
+            "phone": "",
+            "poiType": "101",
+            "name": "中国石化高淳山上农村加油站",
+            "source": "0",
+            "hotPointID": "00C02482110FC817",
+            "lonlat": "118.944210,31.241780"
+        },
+        {
+            "address": "江苏省南京市江宁区",
+            "phone": "",
+            "poiType": "101",
+            "name": "易捷便利店(江宁大里加油站)",
+            "source": "0",
+            "hotPointID": "1140058152881D80",
+            "lonlat": "118.847250,31.802610"
+        },
+        {
+            "address": "崇文路86号东北方向100米",
+            "phone": "",
+            "poiType": "101",
+            "name": "中国石化江苏溧水中心加油站",
+            "source": "0",
+            "hotPointID": "91FE2404BB9331B9",
+            "lonlat": "119.030680,31.634700"
+        },
+        {
+            "address": "江苏省南京市六合区",
+            "phone": "",
+            "poiType": "101",
+            "name": "金牛湖南加油站-便利店",
+            "source": "0",
+            "hotPointID": "10FC2485562EAB79",
+            "lonlat": "118.875470,32.401840"
+        },
+        {
+            "address": "岔路口村",
+            "phone": "025-85562554",
+            "poiType": "101",
+            "name": "中国石化岔路口加油站",
+            "source": "0",
+            "hotPointID": "113C01806924603A",
+            "lonlat": "118.866170,32.095800"
+        },
+        {
+            "address": "漆桥街道老庄山村",
+            "phone": "025-57311329,025-57852765",
+            "poiType": "101",
+            "name": "中国石化高淳老庄山加油站",
+            "source": "0",
+            "hotPointID": "013A60003EC8CD4E",
+            "lonlat": "119.008380,31.372130"
+        },
+        {
+            "address": "平江府路156-4",
+            "phone": "025-52311777,025-66083250",
+            "poiType": "101",
+            "name": "中国石油平江府路加油站",
+            "source": "0",
+            "hotPointID": "807244815D53F7D8",
+            "lonlat": "118.787450,32.020880"
+        },
+        {
+            "address": "江苏省南京市浦口区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "11CA4182E0D1294B",
+            "lonlat": "118.577064,32.147810"
+        },
+        {
+            "address": "浦珠南路28",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "D1446506158B0BE2",
+            "lonlat": "118.639680,32.074760"
+        },
+        {
+            "address": "江苏省南京市高淳区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "90700501A3112A67",
+            "lonlat": "118.823880,31.263570"
+        },
+        {
+            "address": "芜太公路御沁园东北",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "D0342000102141E4",
+            "lonlat": "118.809243,31.324131"
+        },
+        {
+            "address": "瑞泽路6正南方向130米",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "C0282481569999E8",
+            "lonlat": "118.967150,31.874300"
+        },
+        {
+            "address": "虹南路149号",
+            "phone": "025-52498175",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "003860050FEA17F0",
+            "lonlat": "118.929140,31.836660"
+        },
+        {
+            "address": "江苏省南京市江宁区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "C09821868B399C9C",
+            "lonlat": "118.902850,31.949550"
+        },
+        {
+            "address": "万安东路87-6号西北方向160米",
+            "phone": "18362979175",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "41282007F5541B49",
+            "lonlat": "118.887003,31.958145"
+        },
+        {
+            "address": "宝塔桥西街11号正西方向30米",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "40AA41878FA387AC",
+            "lonlat": "118.742010,32.105930"
+        },
+        {
+            "address": "江苏省南京市江宁区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "10146103D09BD51F",
+            "lonlat": "118.801520,31.851260"
+        },
+        {
+            "address": "江苏省南京市江宁区",
+            "phone": "",
+            "poiType": "101",
+            "name": "中化道达尔吉祥加油站",
+            "source": "0",
+            "hotPointID": "C14A44838FC1C674",
+            "lonlat": "118.763060,31.876430"
+        },
+        {
+            "address": "中山南路160",
+            "phone": "025-84464054",
+            "poiType": "101",
+            "name": "中国石化中山南路加油站",
+            "source": "0",
+            "hotPointID": "407C6506DFC208A0",
+            "lonlat": "118.778620,32.037490"
+        },
+        {
+            "address": "泰山路151号正北方向60米",
+            "phone": "",
+            "poiType": "101",
+            "name": "中国石油新城科技园加油站",
+            "source": "0",
+            "hotPointID": "500A61865A9A3A6C",
+            "lonlat": "118.738100,32.001050"
+        },
+        {
+            "address": "龙蟠中路101",
+            "phone": "025-66083218,025-84518506",
+            "poiType": "101",
+            "name": "中国石油龙蟠中路加油站",
+            "source": "0",
+            "hotPointID": "11902081EF6B8A66",
+            "lonlat": "118.799000,32.046690"
+        },
+        {
+            "address": "江苏省南京市六合区",
+            "phone": "",
+            "poiType": "101",
+            "name": "中国石化六合横梁太平加油站",
+            "source": "0",
+            "hotPointID": "917A2402F613C4DE",
+            "lonlat": "118.975000,32.321620"
+        },
+        {
+            "address": "江苏省南京市江宁区",
+            "phone": "",
+            "poiType": "101",
+            "name": "中化道达尔吉祥加油站-便利店",
+            "source": "0",
+            "hotPointID": "51B601022F5BCC5E",
+            "lonlat": "118.763060,31.876430"
+        },
+        {
+            "address": "雄州镇蒋湾村雍六高速公路南侧",
+            "phone": "025-57150531",
+            "poiType": "101",
+            "name": "雍六高速公路龙池服务区南加油站",
+            "source": "0",
+            "hotPointID": "809C45824436B6AF",
+            "lonlat": "118.814750,32.304690"
+        },
+        {
+            "address": "宁马高速公路清修服务区",
+            "phone": "025-86105516",
+            "poiType": "101",
+            "name": "中国石化宁马高速江宁清修东加油站",
+            "source": "0",
+            "hotPointID": "5000240704B6269C",
+            "lonlat": "118.590280,31.819980"
+        },
+        {
+            "address": "双龙大道1245号",
+            "phone": "",
+            "poiType": "101",
+            "name": "易捷便利店(中国石化新区加油站)",
+            "source": "0",
+            "hotPointID": "D1C605031DF30BF8",
+            "lonlat": "118.816210,31.949940"
+        },
+        {
+            "address": "江北新区丁解村信息工程学院向南600米中国海油丁解加气站",
+            "phone": "",
+            "poiType": "101",
+            "name": "中国海油丁解加气站-便利店",
+            "source": "0",
+            "hotPointID": "D1340000D4E5DBE9",
+            "lonlat": "118.718190,32.195590"
+        },
+        {
+            "address": "太安路前赵村",
+            "phone": "025-57352652,025-57885673,025-84569556,025-84569656",
+            "poiType": "101",
+            "name": "中国石化高淳太安加油站",
+            "source": "0",
+            "hotPointID": "801C4485C218982A",
+            "lonlat": "118.856700,31.338910"
+        },
+        {
+            "address": "八百桥镇万山",
+            "phone": "",
+            "poiType": "101",
+            "name": "中国石化八百农机加油站",
+            "source": "0",
+            "hotPointID": "902C40873E4914DE",
+            "lonlat": "119.025230,32.469320"
+        },
+        {
+            "address": "安德门大街9-1",
+            "phone": "025-52415334,025-84569656",
+            "poiType": "101",
+            "name": "中国石化安德门加油站",
+            "source": "0",
+            "hotPointID": "80E0258496AA118B",
+            "lonlat": "118.757430,31.992060"
+        },
+        {
+            "address": "永阳镇十里牌",
+            "phone": "025-57208006,025-57250183",
+            "poiType": "101",
+            "name": "中国石化溧水门神岗加油站",
+            "source": "0",
+            "hotPointID": "50EE24019E5BD55D",
+            "lonlat": "119.080720,31.683860"
+        },
+        {
+            "address": "虎踞南路汉中商场对面",
+            "phone": "025-86518100",
+            "poiType": "101",
+            "name": "中国石化汉中门加油站",
+            "source": "0",
+            "hotPointID": "90146187FC174479",
+            "lonlat": "118.761550,32.042120"
+        },
+        {
+            "address": "东方城128号",
+            "phone": "025-66083257,025-85400526",
+            "poiType": "101",
+            "name": "中国石油城东加油站",
+            "source": "0",
+            "hotPointID": "00C0250763AA737E",
+            "lonlat": "118.844540,32.093650"
+        },
+        {
+            "address": "宁连高速南京六合马鞍镇汤云村",
+            "phone": "025-57117981",
+            "poiType": "101",
+            "name": "中国石化六合潘家花园加油站",
+            "source": "0",
+            "hotPointID": "D0642486474AD445",
+            "lonlat": "118.822600,32.375800"
+        },
+        {
+            "address": "东坝街道芜太路西侧",
+            "phone": "025-57396378",
+            "poiType": "101",
+            "name": "中国石化高淳东坝加油站",
+            "source": "0",
+            "hotPointID": "0180218518AF1DEE",
+            "lonlat": "119.046350,31.313580"
+        },
+        {
+            "address": "杨新路309号",
+            "phone": "025-57058980",
+            "poiType": "101",
+            "name": "中国石化六合利华加油站",
+            "source": "0",
+            "hotPointID": "9102018713F8D274",
+            "lonlat": "118.740870,32.210690"
+        },
+        {
+            "address": "城北开发区岔路口",
+            "phone": "025-57211228",
+            "poiType": "101",
+            "name": "中国石化江苏溧水城北加油站",
+            "source": "0",
+            "hotPointID": "804A6401E7E61EDD",
+            "lonlat": "119.013440,31.681380"
+        },
+        {
+            "address": "江苏省南京市浦口区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "11CA4182E0D1294B",
+            "lonlat": "118.577064,32.147810"
+        },
+        {
+            "address": "浦珠南路28",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "D1446506158B0BE2",
+            "lonlat": "118.639680,32.074760"
+        },
+        {
+            "address": "江苏省南京市高淳区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "90700501A3112A67",
+            "lonlat": "118.823880,31.263570"
+        },
+        {
+            "address": "芜太公路御沁园东北",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "D0342000102141E4",
+            "lonlat": "118.809243,31.324131"
+        },
+        {
+            "address": "瑞泽路6正南方向130米",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "C0282481569999E8",
+            "lonlat": "118.967150,31.874300"
+        },
+        {
+            "address": "虹南路149号",
+            "phone": "025-52498175",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "003860050FEA17F0",
+            "lonlat": "118.929140,31.836660"
+        },
+        {
+            "address": "江苏省南京市江宁区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "C09821868B399C9C",
+            "lonlat": "118.902850,31.949550"
+        },
+        {
+            "address": "万安东路87-6号西北方向160米",
+            "phone": "18362979175",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "41282007F5541B49",
+            "lonlat": "118.887003,31.958145"
+        },
+        {
+            "address": "宝塔桥西街11号正西方向30米",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "40AA41878FA387AC",
+            "lonlat": "118.742010,32.105930"
+        },
+        {
+            "address": "江苏省南京市江宁区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "10146103D09BD51F",
+            "lonlat": "118.801520,31.851260"
+        },
+        {
+            "address": "六合东门商业街正东方向90米",
+            "phone": "",
+            "poiType": "101",
+            "name": "金桥加油站-便利店",
+            "source": "0",
+            "hotPointID": "D0BA21061B13E131",
+            "lonlat": "118.854640,32.336970"
+        },
+        {
+            "address": "峨眉路460",
+            "phone": "",
+            "poiType": "101",
+            "name": "耿岗加油站-便利店",
+            "source": "0",
+            "hotPointID": "005A4405578E21ED",
+            "lonlat": "118.854210,32.356468"
+        },
+        {
+            "address": "滨江开发区",
+            "phone": "025-86120775",
+            "poiType": "101",
+            "name": "中国石化铜井加油站",
+            "source": "0",
+            "hotPointID": "C182650436625911",
+            "lonlat": "118.553160,31.795840"
+        },
+        {
+            "address": "江苏省南京市江宁区",
+            "phone": "",
+            "poiType": "101",
+            "name": "宁杭高速江宁加油站",
+            "source": "0",
+            "hotPointID": "514E050461BAFC01",
+            "lonlat": "118.915600,31.918210"
+        },
+        {
+            "address": "江苏省南京市六合区",
+            "phone": "",
+            "poiType": "101",
+            "name": "龙池石化加油站",
+            "source": "0",
+            "hotPointID": "8076458352096FF7",
+            "lonlat": "118.731530,32.314220"
+        },
+        {
+            "address": "新车站北侧锦绣家园对面",
+            "phone": "18912933328",
+            "poiType": "101",
+            "name": "中油溧水秦淮加油站",
+            "source": "0",
+            "hotPointID": "90F8050178C3E231",
+            "lonlat": "119.038220,31.669400"
+        },
+        {
+            "address": "土桥集镇中国石化江宁土桥加油站",
+            "phone": "",
+            "poiType": "101",
+            "name": "江宁土桥加油站-便利店",
+            "source": "0",
+            "hotPointID": "40C42580748F5075",
+            "lonlat": "119.045870,31.935080"
+        },
+        {
+            "address": "摄山镇杨村",
+            "phone": "025-85723032",
+            "poiType": "101",
+            "name": "中国石化东方加油站",
+            "source": "0",
+            "hotPointID": "D0CE6186AF6F1619",
+            "lonlat": "118.992620,32.145310"
+        },
+        {
+            "address": "鹂岛路70号",
+            "phone": "",
+            "poiType": "101",
+            "name": "骊岛路便利加油站",
+            "source": "0",
+            "hotPointID": "C03865831131AE35",
+            "lonlat": "118.820010,32.172510"
+        },
+        {
+            "address": "机场路18号",
+            "phone": "",
+            "poiType": "101",
+            "name": "溧水新区加油站",
+            "source": "0",
+            "hotPointID": "11AE008436E6589F",
+            "lonlat": "119.059410,31.676810"
+        },
+        {
+            "address": "富春江东街黄山路130-6号",
+            "phone": "13157575558",
+            "poiType": "101",
+            "name": "蚝鲜生加油站",
+            "source": "0",
+            "hotPointID": "D1304407751F1D28",
+            "lonlat": "118.726300,31.998670"
+        },
+        {
+            "address": "雄州东路35号东北方向142米",
+            "phone": "",
+            "poiType": "101",
+            "name": "六合第一加油站",
+            "source": "0",
+            "hotPointID": "D02C208026F5C6A6",
+            "lonlat": "118.835340,32.335620"
+        },
+        {
+            "address": "珠江镇张村三桥服务区内",
+            "phone": "025-58150043,025-66083378",
+            "poiType": "101",
+            "name": "中国石油三桥南加油站",
+            "source": "0",
+            "hotPointID": "81A60406CD0879AB",
+            "lonlat": "118.596960,31.989570"
+        },
+        {
+            "address": "陆郎镇河西村",
+            "phone": "025-84950633",
+            "poiType": "101",
+            "name": "中国石油陆郎加油站",
+            "source": "0",
+            "hotPointID": "410844825F712029",
+            "lonlat": "118.617690,31.801800"
+        },
+        {
+            "address": "金沙江东街29正南方向30米",
+            "phone": "025-86805735",
+            "poiType": "101",
+            "name": "金沙江加油站",
+            "source": "0",
+            "hotPointID": "911424018FE5E834",
+            "lonlat": "118.715110,31.981350"
+        },
+        {
+            "address": "滨江开发区景明大街和锦文路交界处",
+            "phone": "",
+            "poiType": "101",
+            "name": "江宁景明大街加油站",
+            "source": "0",
+            "hotPointID": "C150258358DBB3CC",
+            "lonlat": "118.581800,31.853920"
+        },
+        {
+            "address": "桥林镇卢家凹",
+            "phone": "025-58271297",
+            "poiType": "101",
+            "name": "中润油金桥加油站",
+            "source": "0",
+            "hotPointID": "50EC2501370A3AC7",
+            "lonlat": "118.530850,31.946560"
+        },
+        {
+            "address": "孔镇群英桥南侧",
+            "phone": "025-57411781",
+            "poiType": "101",
+            "name": "中国石化镇北加油站",
+            "source": "0",
+            "hotPointID": "C06E6181873CED85",
+            "lonlat": "118.988200,31.505650"
+        },
+        {
+            "address": "龙蟠路96",
+            "phone": "13357802439",
+            "poiType": "101",
+            "name": "龙蟠路加油站",
+            "source": "0",
+            "hotPointID": "01106583CCAAE1FC",
+            "lonlat": "118.806380,32.074160"
+        },
+        {
+            "address": "丹阳镇双河村",
+            "phone": "025-86150846",
+            "poiType": "101",
+            "name": "中国石化江宁丹阳加油站",
+            "source": "0",
+            "hotPointID": "403A458111257678",
+            "lonlat": "118.724060,31.652440"
+        },
+        {
+            "address": "江苏省南京市高淳区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "10204100D53F84A8",
+            "lonlat": "118.927040,31.386700"
+        },
+        {
+            "address": "江苏省南京市浦口区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "11CA4182E0D1294B",
+            "lonlat": "118.577064,32.147810"
+        },
+        {
+            "address": "浦珠南路28",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "D1446506158B0BE2",
+            "lonlat": "118.639680,32.074760"
+        },
+        {
+            "address": "江苏省南京市高淳区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "90700501A3112A67",
+            "lonlat": "118.823880,31.263570"
+        },
+        {
+            "address": "芜太公路御沁园东北",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "D0342000102141E4",
+            "lonlat": "118.809243,31.324131"
+        },
+        {
+            "address": "瑞泽路6正南方向130米",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "C0282481569999E8",
+            "lonlat": "118.967150,31.874300"
+        },
+        {
+            "address": "虹南路149号",
+            "phone": "025-52498175",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "003860050FEA17F0",
+            "lonlat": "118.929140,31.836660"
+        },
+        {
+            "address": "江苏省南京市江宁区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "C09821868B399C9C",
+            "lonlat": "118.902850,31.949550"
+        },
+        {
+            "address": "万安东路87-6号西北方向160米",
+            "phone": "18362979175",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "41282007F5541B49",
+            "lonlat": "118.887003,31.958145"
+        },
+        {
+            "address": "宝塔桥西街11号正西方向30米",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "40AA41878FA387AC",
+            "lonlat": "118.742010,32.105930"
+        },
+        {
+            "address": "定埠集镇北",
+            "phone": "025-57871048",
+            "poiType": "101",
+            "name": "中国石化高淳定埠加油站",
+            "source": "0",
+            "hotPointID": "0098610229106BF3",
+            "lonlat": "119.161860,31.320440"
+        },
+        {
+            "address": "太新路208",
+            "phone": "025-85575461",
+            "poiType": "101",
+            "name": "中国石化太新路加油站",
+            "source": "0",
+            "hotPointID": "50EE2581848991BF",
+            "lonlat": "118.847280,32.157800"
+        },
+        {
+            "address": "方州路219",
+            "phone": "",
+            "poiType": "101",
+            "name": "中国石化交通加油站",
+            "source": "0",
+            "hotPointID": "00B840824244A11D",
+            "lonlat": "118.837700,32.364450"
+        },
+        {
+            "address": "下燕路劳山北侧",
+            "phone": "025-58861370",
+            "poiType": "101",
+            "name": "中国石化永济大道加油站",
+            "source": "0",
+            "hotPointID": "01342104C9F769AD",
+            "lonlat": "118.779610,32.126340"
+        },
+        {
+            "address": "江苏省南京市六合区",
+            "phone": "",
+            "poiType": "101",
+            "name": "长江四桥服务区东加油站",
+            "source": "0",
+            "hotPointID": "D1064100D9150703",
+            "lonlat": "118.958620,32.226560"
+        },
+        {
+            "address": "东屏镇徐溪村",
+            "phone": "025-57490219",
+            "poiType": "101",
+            "name": "中国石化溧水东屏加油站",
+            "source": "0",
+            "hotPointID": "81086580ADFFD50A",
+            "lonlat": "119.096370,31.691500"
+        },
+        {
+            "address": "紫荆大道",
+            "phone": "025-57883239",
+            "poiType": "101",
+            "name": "中国石化高淳永城加油站",
+            "source": "0",
+            "hotPointID": "11AA448076E9F24E",
+            "lonlat": "118.943370,31.375690"
+        },
+        {
+            "address": "江苏省南京市六合区",
+            "phone": "",
+            "poiType": "101",
+            "name": "长江四桥服务区西加油站",
+            "source": "0",
+            "hotPointID": "D05020824FE8FB8E",
+            "lonlat": "118.956460,32.225460"
+        },
+        {
+            "address": "中央北路138",
+            "phone": "025-85515518",
+            "poiType": "101",
+            "name": "中国石化白云加油站",
+            "source": "0",
+            "hotPointID": "51204183580D1F2F",
+            "lonlat": "118.775720,32.108130"
+        },
+        {
+            "address": "天元东路2227号",
+            "phone": "025-66083278",
+            "poiType": "101",
+            "name": "中国石油天元东路加油站",
+            "source": "0",
+            "hotPointID": "C0A44005EE3C9568",
+            "lonlat": "118.889200,31.949140"
+        },
+        {
+            "address": "凤台南路198号附近",
+            "phone": "025-86802364",
+            "poiType": "101",
+            "name": "中国石化油坊桥加油站",
+            "source": "0",
+            "hotPointID": "902C440686ECA25F",
+            "lonlat": "118.734470,31.982580"
+        },
+        {
+            "address": "龙蟠中路321号",
+            "phone": "",
+            "poiType": "101",
+            "name": "中国石化公园路加油站",
+            "source": "0",
+            "hotPointID": "405C0483299D8FBF",
+            "lonlat": "118.796430,32.031810"
+        },
+        {
+            "address": "幕府西路47号",
+            "phone": "025-85693127,025-85693771",
+            "poiType": "101",
+            "name": "中国石化杰海加油站",
+            "source": "0",
+            "hotPointID": "D1CE0483F8F26EAC",
+            "lonlat": "118.765000,32.105650"
+        },
+        {
+            "address": "同夏路59",
+            "phone": "025-52187483",
+            "poiType": "101",
+            "name": "中国石化江宁同夏路加油站",
+            "source": "0",
+            "hotPointID": "40646000944EA53F",
+            "lonlat": "118.856060,31.956990"
+        },
+        {
+            "address": "和凤镇沙塘镇",
+            "phone": "025-57460023",
+            "poiType": "101",
+            "name": "中国石化江苏溧水和凤加油站",
+            "source": "0",
+            "hotPointID": "50FE21065EF1CCAE",
+            "lonlat": "119.004220,31.434630"
+        },
+        {
+            "address": "江苏省南京市六合区",
+            "phone": "",
+            "poiType": "101",
+            "name": "金牛湖北加油站",
+            "source": "0",
+            "hotPointID": "40E46502022E85F9",
+            "lonlat": "118.875100,32.403280"
+        },
+        {
+            "address": "栖凤南路2号",
+            "phone": "025-57224247",
+            "poiType": "101",
+            "name": "中国石化溧水西环加油站",
+            "source": "0",
+            "hotPointID": "C136600418B51B9F",
+            "lonlat": "119.010900,31.650000"
+        },
+        {
+            "address": "永阳镇金蛙路8号",
+            "phone": "025-57423275",
+            "poiType": "101",
+            "name": "中国石化溧水花园加油站",
+            "source": "0",
+            "hotPointID": "81506407D1000750",
+            "lonlat": "119.036390,31.638870"
+        },
+        {
+            "address": "新集南路69",
+            "phone": "",
+            "poiType": "101",
+            "name": "中国石化新集加油站",
+            "source": "0",
+            "hotPointID": "811C000336A7E554",
+            "lonlat": "118.715190,32.304200"
+        },
+        {
+            "address": "建宁路27",
+            "phone": "025-85518371",
+            "poiType": "101",
+            "name": "中国石化中央门加油站",
+            "source": "0",
+            "hotPointID": "80C82505F04DA6C1",
+            "lonlat": "118.772100,32.092210"
+        },
+        {
+            "address": "江苏省南京市雨花台区",
+            "phone": "025-84569656",
+            "poiType": "101",
+            "name": "铁心桥加油站",
+            "source": "0",
+            "hotPointID": "00B201009A4FE868",
+            "lonlat": "118.740240,31.969020"
+        },
+        {
+            "address": "陶东路10东南方向100米",
+            "phone": "",
+            "poiType": "101",
+            "name": "易捷便利店(将军路加油站)",
+            "source": "0",
+            "hotPointID": "012A0481336342C4",
+            "lonlat": "118.798000,31.791150"
+        },
+        {
+            "address": "栖霞大道与新尧路交叉口西侧",
+            "phone": "025-66083251",
+            "poiType": "101",
+            "name": "中国石油太平加油站",
+            "source": "0",
+            "hotPointID": "504A218718DBB334",
+            "lonlat": "118.871074,32.134039"
+        },
+        {
+            "address": "固城镇秀山村",
+            "phone": "025-57377845",
+            "poiType": "101",
+            "name": "江苏高淳秀峰加油站",
+            "source": "0",
+            "hotPointID": "41486585B7DF3215",
+            "lonlat": "118.970010,31.289000"
+        },
+        {
+            "address": "高淳城北科技新城加油站西南方向50米",
+            "phone": "",
+            "poiType": "101",
+            "name": "城北科技新城加油站",
+            "source": "0",
+            "hotPointID": "8054208581F7293E",
+            "lonlat": "118.872479,31.354858"
+        },
+        {
+            "address": "龙翔路春江新城(北)公交场站内西北方向100米",
+            "phone": "",
+            "poiType": "101",
+            "name": "铁心桥加油站",
+            "source": "0",
+            "hotPointID": "41BC45864F178B4A",
+            "lonlat": "118.741890,31.967740"
+        },
+        {
+            "address": "宁合高速南京浦口区星甸镇龙锦村",
+            "phone": "025-58106918",
+            "poiType": "101",
+            "name": "中国石化新龙锦加油站",
+            "source": "0",
+            "hotPointID": "501A6582BFDD2D10",
+            "lonlat": "118.512710,32.038410"
+        },
+        {
+            "address": "江苏省南京市溧水区",
+            "phone": "025-57851168",
+            "poiType": "101",
+            "name": "江苏高淳交运加油站",
+            "source": "0",
+            "hotPointID": "512841823180BB2D",
+            "lonlat": "118.990210,31.394070"
+        },
+        {
+            "address": "方水路19",
+            "phone": "025-58392889",
+            "poiType": "101",
+            "name": "中国石化长芦加油站",
+            "source": "0",
+            "hotPointID": "40164184FBA29E29",
+            "lonlat": "118.802460,32.266600"
+        },
+        {
+            "address": "双龙大道1245号",
+            "phone": "025-52101735",
+            "poiType": "101",
+            "name": "中国石化新区加油站",
+            "source": "0",
+            "hotPointID": "C10E0587B32F3821",
+            "lonlat": "118.816210,31.949940"
+        },
+        {
+            "address": "江宁镇梅府村",
+            "phone": "025-66083298,025-86100660",
+            "poiType": "101",
+            "name": "中国石油梅村加油站",
+            "source": "0",
+            "hotPointID": "909821032E5C259F",
+            "lonlat": "118.611180,31.882920"
+        },
+        {
+            "address": "晶桥镇云鹤集镇",
+            "phone": "025-57400352",
+            "poiType": "101",
+            "name": "中国石化云鹤加油站",
+            "source": "0",
+            "hotPointID": "C11440822E4156F6",
+            "lonlat": "119.107700,31.475190"
+        },
+        {
+            "address": "葛关路761",
+            "phone": "025-58399201",
+            "poiType": "101",
+            "name": "苏油石化宁扬加油站",
+            "source": "0",
+            "hotPointID": "909E2507C39E3AE0",
+            "lonlat": "118.743910,32.242710"
+        },
+        {
+            "address": "爱陵路82",
+            "phone": "",
+            "poiType": "101",
+            "name": "金富加油站-便利店",
+            "source": "0",
+            "hotPointID": "D1846183AEA02CE8",
+            "lonlat": "118.829530,31.838260"
+        },
+        {
+            "address": "扬子江大道228东南方向200米",
+            "phone": "",
+            "poiType": "101",
+            "name": "上新河加油站",
+            "source": "0",
+            "hotPointID": "91D64086EDB8092D",
+            "lonlat": "118.708220,32.022130"
+        },
+        {
+            "address": "土桥集镇",
+            "phone": "025-84150822",
+            "poiType": "101",
+            "name": "中国石化江宁土桥加油站",
+            "source": "0",
+            "hotPointID": "01022587044ABC48",
+            "lonlat": "119.045870,31.935080"
+        },
+        {
+            "address": "汤山林场",
+            "phone": "025-84107678",
+            "poiType": "101",
+            "name": "中国石化顺心加油站",
+            "source": "0",
+            "hotPointID": "50700500C97F295F",
+            "lonlat": "119.025290,32.057630"
+        },
+        {
+            "address": "栖霞大道5号",
+            "phone": "025-85328968",
+            "poiType": "101",
+            "name": "中国石化钟楼加油站",
+            "source": "0",
+            "hotPointID": "41B2018483E19436",
+            "lonlat": "118.817600,32.119510"
+        },
+        {
+            "address": "上元大街169号",
+            "phone": "025-52190765",
+            "poiType": "101",
+            "name": "江苏江宁金箔东山加油站",
+            "source": "0",
+            "hotPointID": "114A2100F21461EF",
+            "lonlat": "118.823350,31.955230"
+        },
+        {
+            "address": "江苏省南京市浦口区",
+            "phone": "",
+            "poiType": "101",
+            "name": "宁淮高速永宁加油站",
+            "source": "0",
+            "hotPointID": "D02A4406C96D7858",
+            "lonlat": "118.562060,32.116260"
+        },
+        {
+            "address": "江苏省南京市江宁区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "10120180970465AA",
+            "lonlat": "118.776660,31.717110"
+        },
+        {
+            "address": "江苏省南京市高淳区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "10204100D53F84A8",
+            "lonlat": "118.927040,31.386700"
+        },
+        {
+            "address": "江苏省南京市浦口区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "11CA4182E0D1294B",
+            "lonlat": "118.577064,32.147810"
+        },
+        {
+            "address": "浦珠南路28",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "D1446506158B0BE2",
+            "lonlat": "118.639680,32.074760"
+        },
+        {
+            "address": "江苏省南京市高淳区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "90700501A3112A67",
+            "lonlat": "118.823880,31.263570"
+        },
+        {
+            "address": "芜太公路御沁园东北",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "D0342000102141E4",
+            "lonlat": "118.809243,31.324131"
+        },
+        {
+            "address": "瑞泽路6正南方向130米",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "C0282481569999E8",
+            "lonlat": "118.967150,31.874300"
+        },
+        {
+            "address": "虹南路149号",
+            "phone": "025-52498175",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "003860050FEA17F0",
+            "lonlat": "118.929140,31.836660"
+        },
+        {
+            "address": "江苏省南京市江宁区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "C09821868B399C9C",
+            "lonlat": "118.902850,31.949550"
+        },
+        {
+            "address": "万安东路87-6号西北方向160米",
+            "phone": "18362979175",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "41282007F5541B49",
+            "lonlat": "118.887003,31.958145"
+        },
+        {
+            "address": "江苏省南京市浦口区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "11CA4182E0D1294B",
+            "lonlat": "118.577064,32.147810"
+        },
+        {
+            "address": "浦珠南路28",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "D1446506158B0BE2",
+            "lonlat": "118.639680,32.074760"
+        },
+        {
+            "address": "江苏省南京市高淳区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "90700501A3112A67",
+            "lonlat": "118.823880,31.263570"
+        },
+        {
+            "address": "芜太公路御沁园东北",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "D0342000102141E4",
+            "lonlat": "118.809243,31.324131"
+        },
+        {
+            "address": "瑞泽路6正南方向130米",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "C0282481569999E8",
+            "lonlat": "118.967150,31.874300"
+        },
+        {
+            "address": "虹南路149号",
+            "phone": "025-52498175",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "003860050FEA17F0",
+            "lonlat": "118.929140,31.836660"
+        },
+        {
+            "address": "江苏省南京市江宁区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "C09821868B399C9C",
+            "lonlat": "118.902850,31.949550"
+        },
+        {
+            "address": "万安东路87-6号西北方向160米",
+            "phone": "18362979175",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "41282007F5541B49",
+            "lonlat": "118.887003,31.958145"
+        },
+        {
+            "address": "宝塔桥西街11号正西方向30米",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "40AA41878FA387AC",
+            "lonlat": "118.742010,32.105930"
+        },
+        {
+            "address": "江苏省南京市江宁区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "10146103D09BD51F",
+            "lonlat": "118.801520,31.851260"
+        },
+        {
+            "address": "江苏省南京市江宁区",
+            "phone": "",
+            "poiType": "101",
+            "name": "中化道达尔吉祥加油站-便利店",
+            "source": "0",
+            "hotPointID": "51B601022F5BCC5E",
+            "lonlat": "118.763060,31.876430"
+        },
+        {
+            "address": "永阳镇庆丰村中国石化江苏溧水中山加油站",
+            "phone": "",
+            "poiType": "101",
+            "name": "易捷便利店(中国石化江苏溧水中山加油站)",
+            "source": "0",
+            "hotPointID": "11F005870F858383",
+            "lonlat": "119.064100,31.630160"
+        },
+        {
+            "address": "漆桥街道老庄山村中国石化江苏高淳老庄山加油站",
+            "phone": "",
+            "poiType": "101",
+            "name": "易捷便利店(中国石化江苏高淳老庄山加油站)",
+            "source": "0",
+            "hotPointID": "50062505ED08D3DD",
+            "lonlat": "119.008380,31.372130"
+        },
+        {
+            "address": "东坝街道芜太路西侧中国石化江苏高淳东坝加油站",
+            "phone": "",
+            "poiType": "101",
+            "name": "易捷便利店(中国石化江苏高淳东坝加油站)",
+            "source": "0",
+            "hotPointID": "514E6505A7CF7BCD",
+            "lonlat": "119.046350,31.313580"
+        },
+        {
+            "address": "雄州镇蒋湾村雍六高速公路北侧",
+            "phone": "025-57155061",
+            "poiType": "101",
+            "name": "中国石化雍六高速公路龙池服务区北加油站",
+            "source": "0",
+            "hotPointID": "C0A62184A3828ED0",
+            "lonlat": "118.813360,32.305600"
+        },
+        {
+            "address": "江苏省南京市浦口区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "11CA4182E0D1294B",
+            "lonlat": "118.577064,32.147810"
+        },
+        {
+            "address": "浦珠南路28",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "D1446506158B0BE2",
+            "lonlat": "118.639680,32.074760"
+        },
+        {
+            "address": "江苏省南京市高淳区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "90700501A3112A67",
+            "lonlat": "118.823880,31.263570"
+        },
+        {
+            "address": "芜太公路御沁园东北",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "D0342000102141E4",
+            "lonlat": "118.809243,31.324131"
+        },
+        {
+            "address": "瑞泽路6正南方向130米",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "C0282481569999E8",
+            "lonlat": "118.967150,31.874300"
+        },
+        {
+            "address": "虹南路149号",
+            "phone": "025-52498175",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "003860050FEA17F0",
+            "lonlat": "118.929140,31.836660"
+        },
+        {
+            "address": "江苏省南京市江宁区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "C09821868B399C9C",
+            "lonlat": "118.902850,31.949550"
+        },
+        {
+            "address": "万安东路87-6号西北方向160米",
+            "phone": "18362979175",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "41282007F5541B49",
+            "lonlat": "118.887003,31.958145"
+        },
+        {
+            "address": "宝塔桥西街11号正西方向30米",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "40AA41878FA387AC",
+            "lonlat": "118.742010,32.105930"
+        },
+        {
+            "address": "江苏省南京市江宁区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "10146103D09BD51F",
+            "lonlat": "118.801520,31.851260"
+        },
+        {
+            "address": "江苏省南京市浦口区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "11CA4182E0D1294B",
+            "lonlat": "118.577064,32.147810"
+        },
+        {
+            "address": "浦珠南路28",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "D1446506158B0BE2",
+            "lonlat": "118.639680,32.074760"
+        },
+        {
+            "address": "江苏省南京市高淳区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "90700501A3112A67",
+            "lonlat": "118.823880,31.263570"
+        },
+        {
+            "address": "芜太公路御沁园东北",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "D0342000102141E4",
+            "lonlat": "118.809243,31.324131"
+        },
+        {
+            "address": "瑞泽路6正南方向130米",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "C0282481569999E8",
+            "lonlat": "118.967150,31.874300"
+        },
+        {
+            "address": "虹南路149号",
+            "phone": "025-52498175",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "003860050FEA17F0",
+            "lonlat": "118.929140,31.836660"
+        },
+        {
+            "address": "江苏省南京市江宁区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "C09821868B399C9C",
+            "lonlat": "118.902850,31.949550"
+        },
+        {
+            "address": "万安东路87-6号西北方向160米",
+            "phone": "18362979175",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "41282007F5541B49",
+            "lonlat": "118.887003,31.958145"
+        },
+        {
+            "address": "宝塔桥西街11号正西方向30米",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "40AA41878FA387AC",
+            "lonlat": "118.742010,32.105930"
+        },
+        {
+            "address": "江苏省南京市江宁区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "10146103D09BD51F",
+            "lonlat": "118.801520,31.851260"
+        },
+        {
+            "address": "漆桥街道老庄山村",
+            "phone": "025-57311329,025-57852765",
+            "poiType": "101",
+            "name": "中国石化高淳老庄山加油站",
+            "source": "0",
+            "hotPointID": "013A60003EC8CD4E",
+            "lonlat": "119.008380,31.372130"
+        },
+        {
+            "address": "平江府路156-4",
+            "phone": "025-52311777,025-66083250",
+            "poiType": "101",
+            "name": "中国石油平江府路加油站",
+            "source": "0",
+            "hotPointID": "807244815D53F7D8",
+            "lonlat": "118.787450,32.020880"
+        },
+        {
+            "address": "永阳镇庆丰村",
+            "phone": "025-57483085",
+            "poiType": "101",
+            "name": "中国石化江苏溧水中山加油站",
+            "source": "0",
+            "hotPointID": "C1EA6507B6D1D28B",
+            "lonlat": "119.064100,31.630160"
+        },
+        {
+            "address": "江苏省南京市六合区",
+            "phone": "",
+            "poiType": "101",
+            "name": "金牛湖北加油站-便利店",
+            "source": "0",
+            "hotPointID": "D03A4482481FAA00",
+            "lonlat": "118.875100,32.403280"
+        },
+        {
+            "address": "江苏省南京市江宁区",
+            "phone": "",
+            "poiType": "101",
+            "name": "中化道达尔吉祥加油站",
+            "source": "0",
+            "hotPointID": "C14A44838FC1C674",
+            "lonlat": "118.763060,31.876430"
+        },
+        {
+            "address": "中山南路160",
+            "phone": "025-84464054",
+            "poiType": "101",
+            "name": "中国石化中山南路加油站",
+            "source": "0",
+            "hotPointID": "407C6506DFC208A0",
+            "lonlat": "118.778620,32.037490"
+        },
+        {
+            "address": "泰山路151号正北方向60米",
+            "phone": "",
+            "poiType": "101",
+            "name": "中国石油新城科技园加油站",
+            "source": "0",
+            "hotPointID": "500A61865A9A3A6C",
+            "lonlat": "118.738100,32.001050"
+        },
+        {
+            "address": "龙蟠中路101",
+            "phone": "025-66083218,025-84518506",
+            "poiType": "101",
+            "name": "中国石油龙蟠中路加油站",
+            "source": "0",
+            "hotPointID": "11902081EF6B8A66",
+            "lonlat": "118.799000,32.046690"
+        },
+        {
+            "address": "江苏省南京市六合区",
+            "phone": "",
+            "poiType": "101",
+            "name": "中国石化六合横梁太平加油站",
+            "source": "0",
+            "hotPointID": "917A2402F613C4DE",
+            "lonlat": "118.975000,32.321620"
+        },
+        {
+            "address": "江苏省南京市江宁区",
+            "phone": "",
+            "poiType": "101",
+            "name": "中化道达尔吉祥加油站-便利店",
+            "source": "0",
+            "hotPointID": "51B601022F5BCC5E",
+            "lonlat": "118.763060,31.876430"
+        },
+        {
+            "address": "江苏省南京市浦口区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "11CA4182E0D1294B",
+            "lonlat": "118.577064,32.147810"
+        },
+        {
+            "address": "浦珠南路28",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "D1446506158B0BE2",
+            "lonlat": "118.639680,32.074760"
+        },
+        {
+            "address": "江苏省南京市高淳区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "90700501A3112A67",
+            "lonlat": "118.823880,31.263570"
+        },
+        {
+            "address": "芜太公路御沁园东北",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "D0342000102141E4",
+            "lonlat": "118.809243,31.324131"
+        },
+        {
+            "address": "瑞泽路6正南方向130米",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "C0282481569999E8",
+            "lonlat": "118.967150,31.874300"
+        },
+        {
+            "address": "虹南路149号",
+            "phone": "025-52498175",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "003860050FEA17F0",
+            "lonlat": "118.929140,31.836660"
+        },
+        {
+            "address": "江苏省南京市江宁区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "C09821868B399C9C",
+            "lonlat": "118.902850,31.949550"
+        },
+        {
+            "address": "万安东路87-6号西北方向160米",
+            "phone": "18362979175",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "41282007F5541B49",
+            "lonlat": "118.887003,31.958145"
+        },
+        {
+            "address": "宝塔桥西街11号正西方向30米",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "40AA41878FA387AC",
+            "lonlat": "118.742010,32.105930"
+        },
+        {
+            "address": "江苏省南京市江宁区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "10146103D09BD51F",
+            "lonlat": "118.801520,31.851260"
+        },
+        {
+            "address": "宁峰路33号",
+            "phone": "025-84141759",
+            "poiType": "101",
+            "name": "峰潭加油站",
+            "source": "0",
+            "hotPointID": "511825011114E3D4",
+            "lonlat": "119.039890,32.005520"
+        },
+        {
+            "address": "上坊镇陵里村",
+            "phone": "025-52702893,025-66083340",
+            "poiType": "101",
+            "name": "上坊加油站",
+            "source": "0",
+            "hotPointID": "111661814874E06C",
+            "lonlat": "118.890930,31.956780"
+        },
+        {
+            "address": "应天大街619号正东方向130米",
+            "phone": "025-84569656",
+            "poiType": "101",
+            "name": "集合村加油站",
+            "source": "0",
+            "hotPointID": "00EE6583E93B77F3",
+            "lonlat": "118.763950,32.010940"
+        },
+        {
+            "address": "南京绕城(马群段)江南服务区",
+            "phone": "025-86663599",
+            "poiType": "101",
+            "name": "苏油集团加油站",
+            "source": "0",
+            "hotPointID": "01506183685EC9BC",
+            "lonlat": "118.889296,32.042230"
+        },
+        {
+            "address": "紫金山路5号东郊国宾馆紫熙楼1楼",
+            "phone": "",
+            "poiType": "101",
+            "name": "手机加油站",
+            "source": "0",
+            "hotPointID": "D03C0580C9542C92",
+            "lonlat": "118.842140,32.060620"
+        },
+        {
+            "address": "宁乌公路天保旅馆附近",
+            "phone": "025-58257756",
+            "poiType": "101",
+            "name": "中国石化浦江加油站",
+            "source": "0",
+            "hotPointID": "50DA24035515A722",
+            "lonlat": "118.604000,32.036000"
+        },
+        {
+            "address": "宁六路142",
+            "phone": "025-58842233",
+            "poiType": "101",
+            "name": "中国石化宇宙加油站",
+            "source": "0",
+            "hotPointID": "C03464066BE8649B",
+            "lonlat": "118.715370,32.181140"
+        },
+        {
+            "address": "砖墙镇俞家村",
+            "phone": "025-57351679,025-57808755",
+            "poiType": "101",
+            "name": "中国石化砖墙加油站",
+            "source": "0",
+            "hotPointID": "80C464054ECA6DDC",
+            "lonlat": "118.857791,31.266604"
+        },
+        {
+            "address": "栖凤中路10号附近",
+            "phone": "025-57220931",
+            "poiType": "101",
+            "name": "城西加油站",
+            "source": "0",
+            "hotPointID": "10E40003594D37DA",
+            "lonlat": "119.010600,31.656400"
+        },
+        {
+            "address": "江苏省南京市浦口区",
+            "phone": "",
+            "poiType": "101",
+            "name": "昆仑好客(沿山加油站)",
+            "source": "0",
+            "hotPointID": "80842480C4466CF7",
+            "lonlat": "118.689570,32.141040"
+        },
+        {
+            "address": "江苏省南京市浦口区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "11CA4182E0D1294B",
+            "lonlat": "118.577064,32.147810"
+        },
+        {
+            "address": "浦珠南路28",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "D1446506158B0BE2",
+            "lonlat": "118.639680,32.074760"
+        },
+        {
+            "address": "江苏省南京市高淳区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "90700501A3112A67",
+            "lonlat": "118.823880,31.263570"
+        },
+        {
+            "address": "芜太公路御沁园东北",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "D0342000102141E4",
+            "lonlat": "118.809243,31.324131"
+        },
+        {
+            "address": "瑞泽路6正南方向130米",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "C0282481569999E8",
+            "lonlat": "118.967150,31.874300"
+        },
+        {
+            "address": "虹南路149号",
+            "phone": "025-52498175",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "003860050FEA17F0",
+            "lonlat": "118.929140,31.836660"
+        },
+        {
+            "address": "江苏省南京市江宁区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "C09821868B399C9C",
+            "lonlat": "118.902850,31.949550"
+        },
+        {
+            "address": "万安东路87-6号西北方向160米",
+            "phone": "18362979175",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "41282007F5541B49",
+            "lonlat": "118.887003,31.958145"
+        },
+        {
+            "address": "宝塔桥西街11号正西方向30米",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "40AA41878FA387AC",
+            "lonlat": "118.742010,32.105930"
+        },
+        {
+            "address": "江苏省南京市江宁区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "10146103D09BD51F",
+            "lonlat": "118.801520,31.851260"
+        },
+        {
+            "address": "中山北路200号-1",
+            "phone": "025-83211821",
+            "poiType": "101",
+            "name": "中国石化虹桥加油站",
+            "source": "0",
+            "hotPointID": "D04A45862C507D87",
+            "lonlat": "118.762480,32.075730"
+        },
+        {
+            "address": "玉带镇",
+            "phone": "025-57523327",
+            "poiType": "101",
+            "name": "中国石化玉带加油站",
+            "source": "0",
+            "hotPointID": "00A06081E0A3FAFB",
+            "lonlat": "118.897430,32.225750"
+        },
+        {
+            "address": "宁合高速南京浦口区星甸镇新金村",
+            "phone": "025-58102264,025-84203508",
+            "poiType": "101",
+            "name": "中国石化新金加油站",
+            "source": "0",
+            "hotPointID": "00524407973FEEFE",
+            "lonlat": "118.500380,32.042260"
+        },
+        {
+            "address": "程桥镇茶兴南街",
+            "phone": "025-57181681",
+            "poiType": "101",
+            "name": "中国石化竹程加油站",
+            "source": "0",
+            "hotPointID": "C12620866B527DB5",
+            "lonlat": "118.718000,32.438050"
+        },
+        {
+            "address": "编钟东路110",
+            "phone": "",
+            "poiType": "101",
+            "name": "中国石油程桥加油站",
+            "source": "0",
+            "hotPointID": "D09040042398F333",
+            "lonlat": "118.739830,32.385190"
+        },
+        {
+            "address": "仙鹤门东1号",
+            "phone": "025-66083276,025-85572772",
+            "poiType": "101",
+            "name": "中国石油仙林加油站",
+            "source": "0",
+            "hotPointID": "801820056E865773",
+            "lonlat": "118.891000,32.079100"
+        },
+        {
+            "address": "宁六路219",
+            "phone": "025-57049950,025-84569656",
+            "poiType": "101",
+            "name": "中国石化万通加油站",
+            "source": "0",
+            "hotPointID": "517401002D009A48",
+            "lonlat": "118.719660,32.199320"
+        },
+        {
+            "address": "双龙大道936",
+            "phone": "025-52101714",
+            "poiType": "101",
+            "name": "中国石化江宁宏运加油站",
+            "source": "0",
+            "hotPointID": "518C4182364C5E2C",
+            "lonlat": "118.813420,31.959560"
+        },
+        {
+            "address": "顾陇镇",
+            "phone": "025-57841201",
+            "poiType": "101",
+            "name": "中国石化顾陇加油站",
+            "source": "0",
+            "hotPointID": "01280500296A58B6",
+            "lonlat": "119.088670,31.381470"
+        },
+        {
+            "address": "谷里镇花岗村",
+            "phone": "025-86130810,025-84203508",
+            "poiType": "101",
+            "name": "中国石化谷里加油站",
+            "source": "0",
+            "hotPointID": "105C208669619D16",
+            "lonlat": "118.694760,31.871030"
+        },
+        {
+            "address": "江苏省南京市浦口区",
+            "phone": "",
+            "poiType": "101",
+            "name": "宁淮高速永宁加油站",
+            "source": "0",
+            "hotPointID": "D02A4406C96D7858",
+            "lonlat": "118.562060,32.116260"
+        },
+        {
+            "address": "洪蓝镇渔歌集镇",
+            "phone": "025-66083279",
+            "poiType": "101",
+            "name": "中国石油渔歌加油站",
+            "source": "0",
+            "hotPointID": "01082501D7C12965",
+            "lonlat": "118.987750,31.569370"
+        },
+        {
+            "address": "西善桥南路46号附近",
+            "phone": "025-52802229",
+            "poiType": "101",
+            "name": "悦孚石化星月加油站",
+            "source": "0",
+            "hotPointID": "80B60181AA88E9E1",
+            "lonlat": "118.692430,31.952550"
+        },
+        {
+            "address": "湖西街28号",
+            "phone": "025-86443254",
+            "poiType": "101",
+            "name": "中国石化集虹加油站",
+            "source": "0",
+            "hotPointID": "80AC0402E053A7E7",
+            "lonlat": "118.741300,32.029400"
+        },
+        {
+            "address": "迈皋桥万寿村2号",
+            "phone": "025-85327829",
+            "poiType": "101",
+            "name": "中国石化万寿加油站",
+            "source": "0",
+            "hotPointID": "9156450654E6C0D1",
+            "lonlat": "118.834100,32.122400"
+        },
+        {
+            "address": "绕城公路板桥渡口南段",
+            "phone": "025-52898901,025-86724687",
+            "poiType": "101",
+            "name": "中国石化渡口加油站",
+            "source": "0",
+            "hotPointID": "005E2101C7535993",
+            "lonlat": "118.621500,31.939320"
+        },
+        {
+            "address": "永锦路8-6",
+            "phone": "",
+            "poiType": "101",
+            "name": "易捷便利店(龙凤加油站)",
+            "source": "0",
+            "hotPointID": "91BE40818362CA94",
+            "lonlat": "118.686350,32.184910"
+        },
+        {
+            "address": "冶山镇四合墩村",
+            "phone": "025-57573167",
+            "poiType": "101",
+            "name": "中国石化四合加油站",
+            "source": "0",
+            "hotPointID": "D12040867D61F608",
+            "lonlat": "118.925870,32.520030"
+        },
+        {
+            "address": "和燕路416",
+            "phone": "025-66083219,025-85307694",
+            "poiType": "101",
+            "name": "中国石油恒友加油站",
+            "source": "0",
+            "hotPointID": "4014418405CC278E",
+            "lonlat": "118.813650,32.120570"
+        },
+        {
+            "address": "金牛北路73",
+            "phone": "025-57230857",
+            "poiType": "101",
+            "name": "中国石化洪蓝加油站",
+            "source": "0",
+            "hotPointID": "81726182E685976F",
+            "lonlat": "118.987760,31.612450"
+        },
+        {
+            "address": "江苏省南京市浦口区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "11CA4182E0D1294B",
+            "lonlat": "118.577064,32.147810"
+        },
+        {
+            "address": "浦珠南路28",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "D1446506158B0BE2",
+            "lonlat": "118.639680,32.074760"
+        },
+        {
+            "address": "江苏省南京市高淳区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "90700501A3112A67",
+            "lonlat": "118.823880,31.263570"
+        },
+        {
+            "address": "芜太公路御沁园东北",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "D0342000102141E4",
+            "lonlat": "118.809243,31.324131"
+        },
+        {
+            "address": "瑞泽路6正南方向130米",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "C0282481569999E8",
+            "lonlat": "118.967150,31.874300"
+        },
+        {
+            "address": "虹南路149号",
+            "phone": "025-52498175",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "003860050FEA17F0",
+            "lonlat": "118.929140,31.836660"
+        },
+        {
+            "address": "江苏省南京市江宁区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "C09821868B399C9C",
+            "lonlat": "118.902850,31.949550"
+        },
+        {
+            "address": "万安东路87-6号西北方向160米",
+            "phone": "18362979175",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "41282007F5541B49",
+            "lonlat": "118.887003,31.958145"
+        },
+        {
+            "address": "宝塔桥西街11号正西方向30米",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "40AA41878FA387AC",
+            "lonlat": "118.742010,32.105930"
+        },
+        {
+            "address": "江苏省南京市江宁区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "10146103D09BD51F",
+            "lonlat": "118.801520,31.851260"
+        },
+        {
+            "address": "吉印大道2007正东方向160米",
+            "phone": "025-52721015",
+            "poiType": "101",
+            "name": "江宁南宁加油站",
+            "source": "0",
+            "hotPointID": "D1F62107BBA8C8C2",
+            "lonlat": "118.824900,31.900130"
+        },
+        {
+            "address": "所街和湖西街的交叉路口处",
+            "phone": "025-84503526",
+            "poiType": "101",
+            "name": "湖西街加油站",
+            "source": "0",
+            "hotPointID": "41B625073DC2A2F9",
+            "lonlat": "118.741050,32.024600"
+        },
+        {
+            "address": "滨江开发区中国石化铜井加油站",
+            "phone": "",
+            "poiType": "101",
+            "name": "铜井加油站-便利店",
+            "source": "0",
+            "hotPointID": "001024857B589FFE",
+            "lonlat": "118.553160,31.795840"
+        },
+        {
+            "address": "凤羽路与清凉门大街交叉口南150米东北方向100米",
+            "phone": "",
+            "poiType": "101",
+            "name": "清凉门大街加油站",
+            "source": "0",
+            "hotPointID": "40180404CE36F4BD",
+            "lonlat": "118.748020,32.047490"
+        },
+        {
+            "address": "公园北路28",
+            "phone": "13813003090",
+            "poiType": "101",
+            "name": "中国石化北门加油站",
+            "source": "0",
+            "hotPointID": "10C820805116D8DB",
+            "lonlat": "118.618440,32.065440"
+        },
+        {
+            "address": "栖霞大道与仙新路交插口南侧",
+            "phone": "025-66083375,025-66085801",
+            "poiType": "101",
+            "name": "中国石油仙新加油站",
+            "source": "0",
+            "hotPointID": "C0460100DFD4DE28",
+            "lonlat": "118.889990,32.135860"
+        },
+        {
+            "address": "雨花镇丁墙村",
+            "phone": "025-52412647",
+            "poiType": "101",
+            "name": "卡子门加油站",
+            "source": "0",
+            "hotPointID": "0060008775C66460",
+            "lonlat": "118.793060,31.989110"
+        },
+        {
+            "address": "雄州镇龙池张营村",
+            "phone": "025-57150034",
+            "poiType": "101",
+            "name": "龙池加油站",
+            "source": "0",
+            "hotPointID": "906244068B67D0A0",
+            "lonlat": "118.791270,32.300840"
+        },
+        {
+            "address": "江苏省南京市六合区",
+            "phone": "",
+            "poiType": "101",
+            "name": "融邦石化加油站",
+            "source": "0",
+            "hotPointID": "5176650565C49D3B",
+            "lonlat": "119.019000,32.277390"
+        },
+        {
+            "address": "江苏省南京市六合区",
+            "phone": "",
+            "poiType": "101",
+            "name": "服务区-加油站",
+            "source": "0",
+            "hotPointID": "81CA0583F27395EC",
+            "lonlat": "118.823570,32.399800"
+        },
+        {
+            "address": "泰山路151号正北方向60米",
+            "phone": "",
+            "poiType": "101",
+            "name": "中国石油新城科技园加油站",
+            "source": "0",
+            "hotPointID": "500A61865A9A3A6C",
+            "lonlat": "118.738100,32.001050"
+        },
+        {
+            "address": "龙蟠中路101",
+            "phone": "025-66083218,025-84518506",
+            "poiType": "101",
+            "name": "中国石油龙蟠中路加油站",
+            "source": "0",
+            "hotPointID": "11902081EF6B8A66",
+            "lonlat": "118.799000,32.046690"
+        },
+        {
+            "address": "江苏省南京市六合区",
+            "phone": "",
+            "poiType": "101",
+            "name": "中国石化六合横梁太平加油站",
+            "source": "0",
+            "hotPointID": "917A2402F613C4DE",
+            "lonlat": "118.975000,32.321620"
+        },
+        {
+            "address": "江苏省南京市江宁区",
+            "phone": "",
+            "poiType": "101",
+            "name": "中化道达尔吉祥加油站-便利店",
+            "source": "0",
+            "hotPointID": "51B601022F5BCC5E",
+            "lonlat": "118.763060,31.876430"
+        },
+        {
+            "address": "雄州镇蒋湾村雍六高速公路南侧",
+            "phone": "025-57150531",
+            "poiType": "101",
+            "name": "雍六高速公路龙池服务区南加油站",
+            "source": "0",
+            "hotPointID": "809C45824436B6AF",
+            "lonlat": "118.814750,32.304690"
+        },
+        {
+            "address": "葛关路581",
+            "phone": "",
+            "poiType": "101",
+            "name": "易捷便利店(中国石化大厂加油站)",
+            "source": "0",
+            "hotPointID": "004201843436C893",
+            "lonlat": "118.749100,32.237970"
+        },
+        {
+            "address": "同夏路59",
+            "phone": "",
+            "poiType": "101",
+            "name": "易捷便利店(中国石化江宁同夏路加油站)",
+            "source": "0",
+            "hotPointID": "518C2405BD7C2F70",
+            "lonlat": "118.856060,31.956990"
+        },
+        {
+            "address": "紫荆大道中国石化高淳永城加油站",
+            "phone": "",
+            "poiType": "101",
+            "name": "易捷便利店(中国石化高淳永城加油站)",
+            "source": "0",
+            "hotPointID": "40A224845A02779B",
+            "lonlat": "118.943370,31.375690"
+        },
+        {
+            "address": "定埠集镇北中国石化高淳定埠加油站",
+            "phone": "",
+            "poiType": "101",
+            "name": "易捷便利店(中国石化高淳定埠加油站)",
+            "source": "0",
+            "hotPointID": "D0F0008204D1F4A0",
+            "lonlat": "119.161860,31.320440"
+        },
+        {
+            "address": "石头城96号",
+            "phone": "",
+            "poiType": "101",
+            "name": "易捷便利店(中国石化石头城加油站)",
+            "source": "0",
+            "hotPointID": "40122182CA8D82D0",
+            "lonlat": "118.745810,32.064800"
+        },
+        {
+            "address": "江苏省南京市浦口区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "11CA4182E0D1294B",
+            "lonlat": "118.577064,32.147810"
+        },
+        {
+            "address": "浦珠南路28",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "D1446506158B0BE2",
+            "lonlat": "118.639680,32.074760"
+        },
+        {
+            "address": "江苏省南京市高淳区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "90700501A3112A67",
+            "lonlat": "118.823880,31.263570"
+        },
+        {
+            "address": "芜太公路御沁园东北",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "D0342000102141E4",
+            "lonlat": "118.809243,31.324131"
+        },
+        {
+            "address": "瑞泽路6正南方向130米",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "C0282481569999E8",
+            "lonlat": "118.967150,31.874300"
+        },
+        {
+            "address": "虹南路149号",
+            "phone": "025-52498175",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "003860050FEA17F0",
+            "lonlat": "118.929140,31.836660"
+        },
+        {
+            "address": "江苏省南京市江宁区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "C09821868B399C9C",
+            "lonlat": "118.902850,31.949550"
+        },
+        {
+            "address": "万安东路87-6号西北方向160米",
+            "phone": "18362979175",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "41282007F5541B49",
+            "lonlat": "118.887003,31.958145"
+        },
+        {
+            "address": "宝塔桥西街11号正西方向30米",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "40AA41878FA387AC",
+            "lonlat": "118.742010,32.105930"
+        },
+        {
+            "address": "江苏省南京市江宁区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "10146103D09BD51F",
+            "lonlat": "118.801520,31.851260"
+        },
+        {
+            "address": "灵山北路",
+            "phone": "025-87721931",
+            "poiType": "101",
+            "name": "灵山北路加油站",
+            "source": "0",
+            "hotPointID": "419E448267FF1D7D",
+            "lonlat": "118.926630,32.094490"
+        },
+        {
+            "address": "浦珠中路306号",
+            "phone": "025-58853673,025-66083345",
+            "poiType": "101",
+            "name": "中国石油宁石加油站",
+            "source": "0",
+            "hotPointID": "D12A40824A89D7E2",
+            "lonlat": "118.666100,32.098920"
+        },
+        {
+            "address": "江苏省南京市六合区",
+            "phone": "",
+            "poiType": "101",
+            "name": "八百桥加油站",
+            "source": "0",
+            "hotPointID": "D0A86406503FDA04",
+            "lonlat": "118.931570,32.431460"
+        },
+        {
+            "address": "江苏省南京市六合区",
+            "phone": "",
+            "poiType": "101",
+            "name": "宁连高速六合加油站",
+            "source": "0",
+            "hotPointID": "90824186063FFE85",
+            "lonlat": "118.730050,32.478500"
+        },
+        {
+            "address": "来凤路8号",
+            "phone": "025-52778968",
+            "poiType": "101",
+            "name": "中国石化江宁禄口加油站",
+            "source": "0",
+            "hotPointID": "00D60105628A4C29",
+            "lonlat": "118.854620,31.788780"
+        },
+        {
+            "address": "汤山镇寺庄村",
+            "phone": "025-84109584",
+            "poiType": "101",
+            "name": "中国石化长城加油站",
+            "source": "0",
+            "hotPointID": "80BC2585559931C3",
+            "lonlat": "119.062640,32.048030"
+        },
+        {
+            "address": "文景路155",
+            "phone": "025-58841837,025-58841831",
+            "poiType": "101",
+            "name": "交通红叶加油站",
+            "source": "0",
+            "hotPointID": "5008448291CD1039",
+            "lonlat": "118.707390,32.156940"
+        },
+        {
+            "address": "上峰镇庄里村",
+            "phone": "025-84141808",
+            "poiType": "101",
+            "name": "中国石化岳皇加油站",
+            "source": "0",
+            "hotPointID": "D01405070698B81D",
+            "lonlat": "119.086270,32.021740"
+        },
+        {
+            "address": "桥林镇兰花塘",
+            "phone": "025-58278545",
+            "poiType": "101",
+            "name": "中国石化兰花塘加油站",
+            "source": "0",
+            "hotPointID": "505C6085717D5EAF",
+            "lonlat": "118.561400,31.972410"
+        },
+        {
+            "address": "星甸镇龙山街道环城加油站",
+            "phone": "",
+            "poiType": "101",
+            "name": "环城加油站-便利超市",
+            "source": "0",
+            "hotPointID": "C0C26102FD8F31A5",
+            "lonlat": "118.525720,32.003150"
+        },
+        {
+            "address": "江苏省南京市浦口区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "11CA4182E0D1294B",
+            "lonlat": "118.577064,32.147810"
+        },
+        {
+            "address": "浦珠南路28",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "D1446506158B0BE2",
+            "lonlat": "118.639680,32.074760"
+        },
+        {
+            "address": "江苏省南京市高淳区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "90700501A3112A67",
+            "lonlat": "118.823880,31.263570"
+        },
+        {
+            "address": "芜太公路御沁园东北",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "D0342000102141E4",
+            "lonlat": "118.809243,31.324131"
+        },
+        {
+            "address": "瑞泽路6正南方向130米",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "C0282481569999E8",
+            "lonlat": "118.967150,31.874300"
+        },
+        {
+            "address": "虹南路149号",
+            "phone": "025-52498175",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "003860050FEA17F0",
+            "lonlat": "118.929140,31.836660"
+        },
+        {
+            "address": "江苏省南京市江宁区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "C09821868B399C9C",
+            "lonlat": "118.902850,31.949550"
+        },
+        {
+            "address": "万安东路87-6号西北方向160米",
+            "phone": "18362979175",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "41282007F5541B49",
+            "lonlat": "118.887003,31.958145"
+        },
+        {
+            "address": "宝塔桥西街11号正西方向30米",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "40AA41878FA387AC",
+            "lonlat": "118.742010,32.105930"
+        },
+        {
+            "address": "江苏省南京市江宁区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "10146103D09BD51F",
+            "lonlat": "118.801520,31.851260"
+        },
+        {
+            "address": "徐庄软件园2号",
+            "phone": "13913016576",
+            "poiType": "101",
+            "name": "软件园2号加油站",
+            "source": "0",
+            "hotPointID": "1186250235166FEC",
+            "lonlat": "118.885700,32.083740"
+        },
+        {
+            "address": "进士坊88号西南方向140米",
+            "phone": "",
+            "poiType": "101",
+            "name": "易捷便利店(龙潭加油站)",
+            "source": "0",
+            "hotPointID": "D0DE2100F815850E",
+            "lonlat": "119.047000,32.166150"
+        },
+        {
+            "address": "江苏省南京市江宁区",
+            "phone": "",
+            "poiType": "101",
+            "name": "溧马高速荷叶山加油站",
+            "source": "0",
+            "hotPointID": "C1102083F49FF3F0",
+            "lonlat": "118.778300,31.689240"
+        },
+        {
+            "address": "江苏省南京市溧水区",
+            "phone": "025-57211196",
+            "poiType": "101",
+            "name": "江苏溧水果园加油站",
+            "source": "0",
+            "hotPointID": "C1F60103806D0491",
+            "lonlat": "118.996920,31.697180"
+        },
+        {
+            "address": "江苏省南京市六合区",
+            "phone": "",
+            "poiType": "101",
+            "name": "金牛湖南加油站",
+            "source": "0",
+            "hotPointID": "109620844FD33CFF",
+            "lonlat": "118.875470,32.401840"
+        },
+        {
+            "address": "珍珠路75",
+            "phone": "",
+            "poiType": "101",
+            "name": "中国石油珍珠北路加油站",
+            "source": "0",
+            "hotPointID": "11D824019E860886",
+            "lonlat": "119.027800,31.657460"
+        },
+        {
+            "address": "三一二国道306公里处",
+            "phone": "025-66083252,025-85567313",
+            "poiType": "101",
+            "name": "中国石油仙鹤门加油站",
+            "source": "0",
+            "hotPointID": "D004400649616F66",
+            "lonlat": "118.880810,32.099120"
+        },
+        {
+            "address": "江苏省南京市六合区",
+            "phone": "",
+            "poiType": "101",
+            "name": "中国石化加油站(金江路)",
+            "source": "0",
+            "hotPointID": "012A00871F46F363",
+            "lonlat": "118.863069,32.385464"
+        },
+        {
+            "address": "应天大街763",
+            "phone": "025-52416094",
+            "poiType": "101",
+            "name": "中国石化赛虹桥加油站",
+            "source": "0",
+            "hotPointID": "50A46083BA86C6F2",
+            "lonlat": "118.750200,32.002990"
+        },
+        {
+            "address": "凤台南路198号附近",
+            "phone": "025-86802364",
+            "poiType": "101",
+            "name": "中国石化油坊桥加油站",
+            "source": "0",
+            "hotPointID": "902C440686ECA25F",
+            "lonlat": "118.734470,31.982580"
+        },
+        {
+            "address": "石臼湖南路15号",
+            "phone": "025-57312644",
+            "poiType": "101",
+            "name": "武家嘴加油站",
+            "source": "0",
+            "hotPointID": "50DC410523E3612F",
+            "lonlat": "118.883060,31.320300"
+        },
+        {
+            "address": "东麒路66号",
+            "phone": "",
+            "poiType": "101",
+            "name": "东麒路加油站",
+            "source": "0",
+            "hotPointID": "41420084A6A5AABE",
+            "lonlat": "118.881200,31.994710"
+        },
+        {
+            "address": "宁六公路六合开发区",
+            "phone": "",
+            "poiType": "101",
+            "name": "银桥加油站",
+            "source": "0",
+            "hotPointID": "D0DC4183AC108952",
+            "lonlat": "118.810670,32.318310"
+        },
+        {
+            "address": "白马上洋村上洋加油站",
+            "phone": "",
+            "poiType": "101",
+            "name": "昆仑好客(上洋加油站)",
+            "source": "0",
+            "hotPointID": "C1A60506A4F11CDF",
+            "lonlat": "119.140210,31.592590"
+        },
+        {
+            "address": "江苏省南京市溧水区",
+            "phone": "",
+            "poiType": "101",
+            "name": "德胜加油站",
+            "source": "0",
+            "hotPointID": "40A26106C0289358",
+            "lonlat": "119.198390,31.635750"
+        },
+        {
+            "address": "江苏省南京市江宁区",
+            "phone": "",
+            "poiType": "101",
+            "name": "中国石化加油站",
+            "source": "0",
+            "hotPointID": "C11E2484DED9231A",
+            "lonlat": "118.776700,31.764090"
+        },
+        {
+            "address": "双龙大道2188正北方向140米",
+            "phone": "",
+            "poiType": "101",
+            "name": "海宁加油站",
+            "source": "0",
+            "hotPointID": "11CE2001A094C697",
+            "lonlat": "118.822110,31.918870"
+        },
+        {
+            "address": "仙境路6",
+            "phone": "",
+            "poiType": "101",
+            "name": "昆仑好客(羊山加油站)",
+            "source": "0",
+            "hotPointID": "C0FA658090507CF5",
+            "lonlat": "118.930500,32.111040"
+        },
+        {
+            "address": "浦珠中路226",
+            "phone": "025-58827210",
+            "poiType": "101",
+            "name": "悦孚石化江北加油站",
+            "source": "0",
+            "hotPointID": "50862182EBFE4AD7",
+            "lonlat": "118.683200,32.111690"
+        },
+        {
+            "address": "恒通大道24号",
+            "phone": "025-85804146",
+            "poiType": "101",
+            "name": "悦孚石化加油站",
+            "source": "0",
+            "hotPointID": "509E010100B9C999",
+            "lonlat": "118.860190,32.147360"
+        },
+        {
+            "address": "江苏省南京市江宁区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "10120180970465AA",
+            "lonlat": "118.776660,31.717110"
+        },
+        {
+            "address": "江苏省南京市高淳区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "10204100D53F84A8",
+            "lonlat": "118.927040,31.386700"
+        },
+        {
+            "address": "江苏省南京市浦口区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "11CA4182E0D1294B",
+            "lonlat": "118.577064,32.147810"
+        },
+        {
+            "address": "浦珠南路28",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "D1446506158B0BE2",
+            "lonlat": "118.639680,32.074760"
+        },
+        {
+            "address": "江苏省南京市高淳区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "90700501A3112A67",
+            "lonlat": "118.823880,31.263570"
+        },
+        {
+            "address": "芜太公路御沁园东北",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "D0342000102141E4",
+            "lonlat": "118.809243,31.324131"
+        },
+        {
+            "address": "瑞泽路6正南方向130米",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "C0282481569999E8",
+            "lonlat": "118.967150,31.874300"
+        },
+        {
+            "address": "虹南路149号",
+            "phone": "025-52498175",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "003860050FEA17F0",
+            "lonlat": "118.929140,31.836660"
+        },
+        {
+            "address": "江苏省南京市江宁区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "C09821868B399C9C",
+            "lonlat": "118.902850,31.949550"
+        },
+        {
+            "address": "万安东路87-6号西北方向160米",
+            "phone": "18362979175",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "41282007F5541B49",
+            "lonlat": "118.887003,31.958145"
+        },
+        {
+            "address": "虹南路149号",
+            "phone": "025-52498175",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "003860050FEA17F0",
+            "lonlat": "118.929140,31.836660"
+        },
+        {
+            "address": "江苏省南京市江宁区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "C09821868B399C9C",
+            "lonlat": "118.902850,31.949550"
+        },
+        {
+            "address": "万安东路87-6号西北方向160米",
+            "phone": "18362979175",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "41282007F5541B49",
+            "lonlat": "118.887003,31.958145"
+        },
+        {
+            "address": "宝塔桥西街11号正西方向30米",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "40AA41878FA387AC",
+            "lonlat": "118.742010,32.105930"
+        },
+        {
+            "address": "江苏省南京市江宁区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "10146103D09BD51F",
+            "lonlat": "118.801520,31.851260"
+        },
+        {
+            "address": "江苏省南京市溧水区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "90CE440507571F53",
+            "lonlat": "119.057940,31.621820"
+        },
+        {
+            "address": "江苏省南京市高淳区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "C00C00008EF3BD9B",
+            "lonlat": "118.963780,31.377160"
+        },
+        {
+            "address": "雄风路299号西北方向120米",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "C1C42502D5686956",
+            "lonlat": "118.641120,31.917470"
+        },
+        {
+            "address": "江苏省南京市六合区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "9118208137FC3BC3",
+            "lonlat": "118.831190,32.379290"
+        },
+        {
+            "address": "竹镇向阳桥桥东首",
+            "phone": "025-57594430",
+            "poiType": "101",
+            "name": "竹镇加油站",
+            "source": "0",
+            "hotPointID": "D1586004DE74FD68",
+            "lonlat": "118.690590,32.515940"
+        },
+        {
+            "address": "江苏省南京市浦口区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "11CA4182E0D1294B",
+            "lonlat": "118.577064,32.147810"
+        },
+        {
+            "address": "浦珠南路28",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "D1446506158B0BE2",
+            "lonlat": "118.639680,32.074760"
+        },
+        {
+            "address": "江苏省南京市高淳区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "90700501A3112A67",
+            "lonlat": "118.823880,31.263570"
+        },
+        {
+            "address": "芜太公路御沁园东北",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "D0342000102141E4",
+            "lonlat": "118.809243,31.324131"
+        },
+        {
+            "address": "瑞泽路6正南方向130米",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "C0282481569999E8",
+            "lonlat": "118.967150,31.874300"
+        },
+        {
+            "address": "虹南路149号",
+            "phone": "025-52498175",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "003860050FEA17F0",
+            "lonlat": "118.929140,31.836660"
+        },
+        {
+            "address": "江苏省南京市江宁区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "C09821868B399C9C",
+            "lonlat": "118.902850,31.949550"
+        },
+        {
+            "address": "万安东路87-6号西北方向160米",
+            "phone": "18362979175",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "41282007F5541B49",
+            "lonlat": "118.887003,31.958145"
+        },
+        {
+            "address": "宝塔桥西街11号正西方向30米",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "40AA41878FA387AC",
+            "lonlat": "118.742010,32.105930"
+        },
+        {
+            "address": "江苏省南京市江宁区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "10146103D09BD51F",
+            "lonlat": "118.801520,31.851260"
+        },
+        {
+            "address": "雄风路299号西北方向120米",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "C1C42502D5686956",
+            "lonlat": "118.641120,31.917470"
+        },
+        {
+            "address": "江苏省南京市六合区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "9118208137FC3BC3",
+            "lonlat": "118.831190,32.379290"
+        },
+        {
+            "address": "仙境路6",
+            "phone": "025-83414338",
+            "poiType": "101",
+            "name": "羊山加油站",
+            "source": "0",
+            "hotPointID": "C0DE248021528CD0",
+            "lonlat": "118.930500,32.111040"
+        },
+        {
+            "address": "永锦路8-6",
+            "phone": "025-58869307",
+            "poiType": "101",
+            "name": "龙凤加油站",
+            "source": "0",
+            "hotPointID": "907C000018C6536C",
+            "lonlat": "118.686350,32.184910"
+        },
+        {
+            "address": "白马上洋村",
+            "phone": "025-57254188",
+            "poiType": "101",
+            "name": "上洋加油站",
+            "source": "0",
+            "hotPointID": "D04A0186D194604C",
+            "lonlat": "119.140210,31.592590"
+        },
+        {
+            "address": "宁六路363",
+            "phone": "025-58399108",
+            "poiType": "101",
+            "name": "龙鑫加油站",
+            "source": "0",
+            "hotPointID": "505824820E1EA561",
+            "lonlat": "118.735830,32.233220"
+        },
+        {
+            "address": "霞区九乡河东路",
+            "phone": "",
+            "poiType": "101",
+            "name": "九乡河加油站",
+            "source": "0",
+            "hotPointID": "403041057FE0706B",
+            "lonlat": "118.946840,32.116500"
+        },
+        {
+            "address": "星甸镇龙山街道",
+            "phone": "13913303162",
+            "poiType": "101",
+            "name": "环城加油站",
+            "source": "0",
+            "hotPointID": "C1D244002DAA3B85",
+            "lonlat": "118.525720,32.003150"
+        },
+        {
+            "address": "机场路99号正西方向80米",
+            "phone": "025-56212159",
+            "poiType": "101",
+            "name": "蓝春加油站",
+            "source": "0",
+            "hotPointID": "402024806D0F6B96",
+            "lonlat": "119.020810,31.677200"
+        },
+        {
+            "address": "京新广场旁",
+            "phone": "025-58856791",
+            "poiType": "101",
+            "name": "柳州东路加油站",
+            "source": "0",
+            "hotPointID": "40F86503988DAB1F",
+            "lonlat": "118.739592,32.142960"
+        },
+        {
+            "address": "白马镇杜巷村",
+            "phone": "025-57250183",
+            "poiType": "101",
+            "name": "中国石化溧水白马加油站",
+            "source": "0",
+            "hotPointID": "811E2181A80F3C64",
+            "lonlat": "119.176690,31.575300"
+        },
+        {
+            "address": "石湫镇社东",
+            "phone": "025-57270028",
+            "poiType": "101",
+            "name": "中国石化溧水石湫加油站",
+            "source": "0",
+            "hotPointID": "C1E04086B448C6CF",
+            "lonlat": "118.913930,31.624000"
+        },
+        {
+            "address": "淳化镇",
+            "phone": "025-52290409",
+            "poiType": "101",
+            "name": "中国石化江宁梅龙加油站",
+            "source": "0",
+            "hotPointID": "D1A065067DC16434",
+            "lonlat": "118.927000,31.941140"
+        },
+        {
+            "address": "江苏省南京市栖霞区",
+            "phone": "025-84569656",
+            "poiType": "101",
+            "name": "第二长江大桥东加油站",
+            "source": "0",
+            "hotPointID": "413021871FC79920",
+            "lonlat": "118.829210,32.176860"
+        },
+        {
+            "address": "江苏省南京市栖霞区",
+            "phone": "",
+            "poiType": "101",
+            "name": "第二长江大桥西加油站",
+            "source": "0",
+            "hotPointID": "C0100086DEEA5788",
+            "lonlat": "118.826040,32.175420"
+        },
+        {
+            "address": "所街和湖西街的交叉路口处",
+            "phone": "",
+            "poiType": "101",
+            "name": "易捷便利店(湖西街加油站)",
+            "source": "0",
+            "hotPointID": "1162200337DD7CB2",
+            "lonlat": "118.741230,32.024490"
+        },
+        {
+            "address": "江北新区丁解村信息工程学院向南600米",
+            "phone": "025-58859833",
+            "poiType": "101",
+            "name": "中国海油丁解加气站",
+            "source": "0",
+            "hotPointID": "C1240104864190EB",
+            "lonlat": "118.718190,32.195590"
+        },
+        {
+            "address": "漆桥街道双牌石漆桥北路010号",
+            "phone": "025-57851167,025-84203508",
+            "poiType": "101",
+            "name": "中国石化高淳双牌石加油站",
+            "source": "0",
+            "hotPointID": "102A048546A1A562",
+            "lonlat": "118.990060,31.396840"
+        },
+        {
+            "address": "永阳镇秦淮路东",
+            "phone": "025-56215385",
+            "poiType": "101",
+            "name": "中国石化溧水宝塔加油站",
+            "source": "0",
+            "hotPointID": "C0A02105C79204B0",
+            "lonlat": "119.039760,31.661030"
+        },
+        {
+            "address": "石头城96号",
+            "phone": "025-83706025,025-84203508",
+            "poiType": "101",
+            "name": "中国石化石头城加油站",
+            "source": "0",
+            "hotPointID": "90D221879E1424DB",
+            "lonlat": "118.745810,32.064800"
+        },
+        {
+            "address": "京新广场旁",
+            "phone": "025-58856791",
+            "poiType": "101",
+            "name": "柳州东路加油站",
+            "source": "0",
+            "hotPointID": "40F86503988DAB1F",
+            "lonlat": "118.739592,32.142960"
+        },
+        {
+            "address": "爱陵路82",
+            "phone": "025-52755394",
+            "poiType": "101",
+            "name": "金富加油站",
+            "source": "0",
+            "hotPointID": "9148050724EB9647",
+            "lonlat": "118.829530,31.838260"
+        },
+        {
+            "address": "江苏省南京市栖霞区",
+            "phone": "",
+            "poiType": "101",
+            "name": "东环加油站",
+            "source": "0",
+            "hotPointID": "D1BA6581F8D89C6F",
+            "lonlat": "118.887520,32.042420"
+        },
+        {
+            "address": "端拱路69",
+            "phone": "",
+            "poiType": "101",
+            "name": "端拱路加油站",
+            "source": "0",
+            "hotPointID": "014464822127DEAE",
+            "lonlat": "118.937540,31.921090"
+        },
+        {
+            "address": "三零三县道旁",
+            "phone": "",
+            "poiType": "101",
+            "name": "悦孚石化阳春加油站",
+            "source": "0",
+            "hotPointID": "906065805021F6A9",
+            "lonlat": "118.526800,32.165470"
+        },
+        {
+            "address": "南塘村双湖桥",
+            "phone": "025-57851167",
+            "poiType": "101",
+            "name": "双湖桥加油站",
+            "source": "0",
+            "hotPointID": "908E4406EFDDC373",
+            "lonlat": "118.902610,31.333810"
+        },
+        {
+            "address": "板桥弘阳装饰城对面",
+            "phone": "025-89636766",
+            "poiType": "101",
+            "name": "渡江加油站",
+            "source": "0",
+            "hotPointID": "C02065858E73DCEF",
+            "lonlat": "118.664340,31.944190"
+        },
+        {
+            "address": "陶东路10东南方向100米",
+            "phone": "025-51181150",
+            "poiType": "101",
+            "name": "将军路加油站",
+            "source": "0",
+            "hotPointID": "D15C008253E51B82",
+            "lonlat": "118.798000,31.791150"
+        },
+        {
+            "address": "盘城镇江北村东",
+            "phone": "",
+            "poiType": "101",
+            "name": "浦口加油站",
+            "source": "0",
+            "hotPointID": "81322103FDAD3CBE",
+            "lonlat": "118.725650,32.215090"
+        },
+        {
+            "address": "宁峰路33号",
+            "phone": "025-84141759",
+            "poiType": "101",
+            "name": "峰潭加油站",
+            "source": "0",
+            "hotPointID": "511825011114E3D4",
+            "lonlat": "119.039890,32.005520"
+        },
+        {
+            "address": "玄武大道69",
+            "phone": "025-85405867",
+            "poiType": "101",
+            "name": "花园路加油站",
+            "source": "0",
+            "hotPointID": "90C6008131619906",
+            "lonlat": "118.817640,32.087640"
+        },
+        {
+            "address": "乌江镇",
+            "phone": "025-58292073",
+            "poiType": "101",
+            "name": "中国石化乌江加油站",
+            "source": "0",
+            "hotPointID": "C1BA0586DEA03A6D",
+            "lonlat": "118.467200,31.869570"
+        },
+        {
+            "address": "江苏省南京市六合区",
+            "phone": "",
+            "poiType": "101",
+            "name": "中国石化冶山加油站",
+            "source": "0",
+            "hotPointID": "C1EE0181C1EE28EE",
+            "lonlat": "118.921050,32.482360"
+        },
+        {
+            "address": "江苏省南京市溧水区",
+            "phone": "",
+            "poiType": "101",
+            "name": "溧水青年路加油站",
+            "source": "0",
+            "hotPointID": "8012250264C92232",
+            "lonlat": "119.051920,31.652780"
+        },
+        {
+            "address": "和燕路424",
+            "phone": "025-85317961,025-84203508",
+            "poiType": "101",
+            "name": "中国石化晓庄加油站",
+            "source": "0",
+            "hotPointID": "C06404868068F91B",
+            "lonlat": "118.814500,32.123230"
+        },
+        {
+            "address": "龙山乡龙锦村",
+            "phone": "025-58106658",
+            "poiType": "101",
+            "name": "中国石化浦口龙锦加油站",
+            "source": "0",
+            "hotPointID": "80304402C10F586C",
+            "lonlat": "118.524580,32.029600"
+        },
+        {
+            "address": "江苏省南京市溧水区",
+            "phone": "025-57243901",
+            "poiType": "101",
+            "name": "宁高服务区东加油站",
+            "source": "0",
+            "hotPointID": "007A05824AA155B9",
+            "lonlat": "118.916500,31.744770"
+        },
+        {
+            "address": "孔镇集镇",
+            "phone": "025-57410102",
+            "poiType": "101",
+            "name": "中国石化溧水孔镇加油站",
+            "source": "0",
+            "hotPointID": "4062650084CBA61A",
+            "lonlat": "118.998220,31.482600"
+        },
+        {
+            "address": "马群百水桥",
+            "phone": "025-84361684,025-84363432",
+            "poiType": "101",
+            "name": "中国石化百水桥加油站北站",
+            "source": "0",
+            "hotPointID": "403824800D5DC1FD",
+            "lonlat": "118.908330,32.056000"
+        },
+        {
+            "address": "江苏省南京市雨花台区",
+            "phone": "025-84569656",
+            "poiType": "101",
+            "name": "铁心桥加油站",
+            "source": "0",
+            "hotPointID": "00B201009A4FE868",
+            "lonlat": "118.740240,31.969020"
+        },
+        {
+            "address": "江苏省南京市浦口区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "11CA4182E0D1294B",
+            "lonlat": "118.577064,32.147810"
+        },
+        {
+            "address": "浦珠南路28",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "D1446506158B0BE2",
+            "lonlat": "118.639680,32.074760"
+        },
+        {
+            "address": "江苏省南京市高淳区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "90700501A3112A67",
+            "lonlat": "118.823880,31.263570"
+        },
+        {
+            "address": "芜太公路御沁园东北",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "D0342000102141E4",
+            "lonlat": "118.809243,31.324131"
+        },
+        {
+            "address": "瑞泽路6正南方向130米",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "C0282481569999E8",
+            "lonlat": "118.967150,31.874300"
+        },
+        {
+            "address": "虹南路149号",
+            "phone": "025-52498175",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "003860050FEA17F0",
+            "lonlat": "118.929140,31.836660"
+        },
+        {
+            "address": "江苏省南京市江宁区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "C09821868B399C9C",
+            "lonlat": "118.902850,31.949550"
+        },
+        {
+            "address": "万安东路87-6号西北方向160米",
+            "phone": "18362979175",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "41282007F5541B49",
+            "lonlat": "118.887003,31.958145"
+        },
+        {
+            "address": "宝塔桥西街11号正西方向30米",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "40AA41878FA387AC",
+            "lonlat": "118.742010,32.105930"
+        },
+        {
+            "address": "江苏省南京市江宁区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "10146103D09BD51F",
+            "lonlat": "118.801520,31.851260"
+        },
+        {
+            "address": "迈皋桥万寿村2号",
+            "phone": "",
+            "poiType": "101",
+            "name": "万寿加油站-便利店",
+            "source": "0",
+            "hotPointID": "01C86184E3FE62F4",
+            "lonlat": "118.834100,32.122400"
+        },
+        {
+            "address": "江苏省南京市江宁区",
+            "phone": "025-52778684",
+            "poiType": "101",
+            "name": "江宁大里加油站",
+            "source": "0",
+            "hotPointID": "109E050055181D38",
+            "lonlat": "118.847250,31.802610"
+        },
+        {
+            "address": "尧化门门里7号",
+            "phone": "025-85331477,025-85561557",
+            "poiType": "101",
+            "name": "中国石化尧化门加油站",
+            "source": "0",
+            "hotPointID": "51DE2503D8A2A178",
+            "lonlat": "118.866890,32.110870"
+        },
+        {
+            "address": "大方工业园1号正南方向90米",
+            "phone": "",
+            "poiType": "101",
+            "name": "板桥便利加油站",
+            "source": "0",
+            "hotPointID": "90B2648642BABE57",
+            "lonlat": "118.665800,31.908900"
+        },
+        {
+            "address": "宁桥南路118号",
+            "phone": "025-86100652",
+            "poiType": "101",
+            "name": "中国石化江宁镇加油站",
+            "source": "0",
+            "hotPointID": "10466006B04E7604",
+            "lonlat": "118.604440,31.861420"
+        },
+        {
+            "address": "雨花路215号",
+            "phone": "025-52411523,025-52418414,025-84569656",
+            "poiType": "101",
+            "name": "中国石化雨花加油站",
+            "source": "0",
+            "hotPointID": "C06825817A75AAFC",
+            "lonlat": "118.779830,32.001670"
+        },
+        {
+            "address": "仙隐北路7号",
+            "phone": "025-52374567,025-85570500",
+            "poiType": "101",
+            "name": "中国石油尧二加油站",
+            "source": "0",
+            "hotPointID": "103C008796846925",
+            "lonlat": "118.890690,32.107890"
+        },
+        {
+            "address": "江苏省南京市栖霞区",
+            "phone": "",
+            "poiType": "101",
+            "name": "东环加油站-便利店",
+            "source": "0",
+            "hotPointID": "00DC6182A99B6E79",
+            "lonlat": "118.887520,32.042420"
+        },
+        {
+            "address": "宁合高速南京浦口区星甸镇万隆村",
+            "phone": "025-58264766",
+            "poiType": "101",
+            "name": "中国石化星甸加油站",
+            "source": "0",
+            "hotPointID": "814C0182FED2EC48",
+            "lonlat": "118.451380,32.069430"
+        },
+        {
+            "address": "瓜埠镇单桥",
+            "phone": "025-57632256",
+            "poiType": "101",
+            "name": "中国石化单桥加油站",
+            "source": "0",
+            "hotPointID": "103E408710162AF2",
+            "lonlat": "118.887660,32.269370"
+        },
+        {
+            "address": "江苏省南京市江宁区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "10146103D09BD51F",
+            "lonlat": "118.801520,31.851260"
+        },
+        {
+            "address": "江苏省南京市溧水区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "90CE440507571F53",
+            "lonlat": "119.057940,31.621820"
+        },
+        {
+            "address": "江苏省南京市高淳区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "C00C00008EF3BD9B",
+            "lonlat": "118.963780,31.377160"
+        },
+        {
+            "address": "雄风路299号西北方向120米",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "C1C42502D5686956",
+            "lonlat": "118.641120,31.917470"
+        },
+        {
+            "address": "江苏省南京市六合区",
+            "phone": "",
+            "poiType": "101",
+            "name": "加油站",
+            "source": "0",
+            "hotPointID": "9118208137FC3BC3",
+            "lonlat": "118.831190,32.379290"
+        },
+        {
+            "address": "甘东线0号路交叉处",
+            "phone": "025-58984594",
+            "poiType": "101",
+            "name": "宁炼加油站",
+            "source": "0",
+            "hotPointID": "41FC0485B9892A9F",
+            "lonlat": "118.911600,32.151360"
+        },
+        {
+            "address": "淳化街道三里店正东方向130米",
+            "phone": "",
+            "poiType": "101",
+            "name": "青山加油站",
+            "source": "0",
+            "hotPointID": "504C6180D6581BBF",
+            "lonlat": "118.951700,31.935000"
+        },
+        {
+            "address": "江苏省南京市江宁区",
+            "phone": "",
+            "poiType": "101",
+            "name": "红叶友联加油站",
+            "source": "0",
+            "hotPointID": "915E0480B8473AEB",
+            "lonlat": "119.063830,32.046870"
+        },
+        {
+            "address": "六合东门商业街正东方向90米",
+            "phone": "",
+            "poiType": "101",
+            "name": "金桥加油站",
+            "source": "0",
+            "hotPointID": "4108250061DA814A",
+            "lonlat": "118.854640,32.336970"
+        },
+        {
+            "address": "建宁路380",
+            "phone": "",
+            "poiType": "101",
+            "name": "江边加油站",
+            "source": "0",
+            "hotPointID": "00EA6186AA4D06F6",
+            "lonlat": "118.731320,32.094680"
+        },
+        {
+            "address": "天元东路2227号",
+            "phone": "025-66083278",
+            "poiType": "101",
+            "name": "中国石油天元东路加油站",
+            "source": "0",
+            "hotPointID": "C0A44005EE3C9568",
+            "lonlat": "118.889200,31.949140"
+        },
+        {
+            "address": "雄风路162",
+            "phone": "025-86705751",
+            "poiType": "101",
+            "name": "中国石化江宁新建加油站",
+            "source": "0",
+            "hotPointID": "D0C22106366062C1",
+            "lonlat": "118.637310,31.911300"
+        },
+        {
+            "address": "疏港大道1号",
+            "phone": "025-58868071,13611590712",
+            "poiType": "101",
+            "name": "中国石化龙潭物流园加油站",
+            "source": "0",
+            "hotPointID": "90266003D2DD202D",
+            "lonlat": "119.061660,32.193080"
+        },
+        {
+            "address": "江苏省南京市江宁区",
+            "phone": "025-86105518",
+            "poiType": "101",
+            "name": "中国石化宁马高速西加油站",
+            "source": "0",
+            "hotPointID": "11542481C48F6C5A",
+            "lonlat": "118.589160,31.820070"
+        },
+        {
+            "address": "江苏省南京市六合区",
+            "phone": "",
+            "poiType": "101",
+            "name": "中国石化六新路加油站",
+            "source": "0",
+            "hotPointID": "805A01856CB59F80",
+            "lonlat": "118.750645,32.310629"
+        },
+        {
+            "address": "芜太公路",
+            "phone": "025-57881238,025-57888123,025-84203508",
+            "poiType": "101",
+            "name": "中国石化高淳宝塔加油站",
+            "source": "0",
+            "hotPointID": "41A260819C4A7CAF",
+            "lonlat": "118.893280,31.343650"
+        },
+        {
+            "address": "玄武大道69",
+            "phone": "",
+            "poiType": "101",
+            "name": "花园路加油站-便利店",
+            "source": "0",
+            "hotPointID": "907665861F7CDE8D",
+            "lonlat": "118.817640,32.087640"
+        },
+        {
+            "address": "太安路前赵村",
+            "phone": "025-57352652,025-57885673,025-84569556,025-84569656",
+            "poiType": "101",
+            "name": "中国石化高淳太安加油站",
+            "source": "0",
+            "hotPointID": "801C4485C218982A",
+            "lonlat": "118.856700,31.338910"
+        },
+        {
+            "address": "八百桥镇万山",
+            "phone": "",
+            "poiType": "101",
+            "name": "中国石化八百农机加油站",
+            "source": "0",
+            "hotPointID": "902C40873E4914DE",
+            "lonlat": "119.025230,32.469320"
+        },
+        {
+            "address": "安德门大街9-1",
+            "phone": "025-52415334,025-84569656",
+            "poiType": "101",
+            "name": "中国石化安德门加油站",
+            "source": "0",
+            "hotPointID": "80E0258496AA118B",
+            "lonlat": "118.757430,31.992060"
+        },
+        {
+            "address": "永宁镇相寺村",
+            "phone": "025-58229578",
+            "poiType": "101",
+            "name": "中国石化浦口永宁加油站",
+            "source": "0",
+            "hotPointID": "10DA440131AD8FAE",
+            "lonlat": "118.573470,32.147680"
+        },
+        {
+            "address": "和燕路58东北方向34米",
+            "phone": "",
+            "poiType": "101",
+            "name": "和燕路加油站",
+            "source": "0",
+            "hotPointID": "10100400C3ED4CCB",
+            "lonlat": "118.787600,32.096420"
+        },
+        {
+            "address": "东晏公庙巷7号",
+            "phone": "025-83710125",
+            "poiType": "101",
+            "name": "定淮门加油站",
+            "source": "0",
+            "hotPointID": "9084448619795383",
+            "lonlat": "118.743700,32.067600"
+        },
+        {
+            "address": "上元大街750",
+            "phone": "025-52281446",
+            "poiType": "101",
+            "name": "东山加气加油站",
+            "source": "0",
+            "hotPointID": "C1460506075EEC92",
+            "lonlat": "118.849600,31.958630"
+        },
+        {
+            "address": "麒麟街道锁石村",
+            "phone": "025-84191263",
+            "poiType": "101",
+            "name": "中国石化锁石加油站",
+            "source": "0",
+            "hotPointID": "C12C658268786CB3",
+            "lonlat": "118.977240,32.059400"
+        },
+        {
+            "address": "珍珠街55",
+            "phone": "025-58855880",
+            "poiType": "101",
+            "name": "悦孚石化顶山加油站",
+            "source": "0",
+            "hotPointID": "11DE01849CFE584D",
+            "lonlat": "118.678410,32.115010"
+        },
+        {
+            "address": "晶桥工业园1688号正西方向140米",
+            "phone": "",
+            "poiType": "101",
+            "name": "溧水晶桥加油站",
+            "source": "0",
+            "hotPointID": "C0C64081AB8F8070",
+            "lonlat": "119.079320,31.529470"
+        },
+        {
+            "address": "江苏省南京市浦口区",
+            "phone": "025-58876897",
+            "poiType": "101",
+            "name": "中国石化华山加油站",
+            "source": "0",
+            "hotPointID": "51640402315E6A64",
+            "lonlat": "118.587060,32.036880"
+        },
+        {
+            "address": "双闸路101号海峡城第二街区2楼正西方向80米",
+            "phone": "",
+            "poiType": "101",
+            "name": "海峡城加油站",
+            "source": "0",
+            "hotPointID": "906861850ABC43F7",
+            "lonlat": "118.677780,31.980780"
+        },
+        {
+            "address": "江苏省南京市江宁区",
+            "phone": "",
+            "poiType": "101",
+            "name": "黄栗墅服务区加油站",
+            "source": "0",
+            "hotPointID": "51FC0400DC77C09B",
+            "lonlat": "119.026760,32.059100"
+        }
+    ]
+}
